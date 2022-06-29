@@ -1,23 +1,56 @@
-<h1>Tufts HCI Lab</h1>
-<nav>
-  <a routerLink="/">Home</a>
+<style>
+  .background-image {
+    width: 100%;
+    max-height: 300px;
+    overflow: hidden;
+  }
+  .background-image img {
+    width: 100%;
+    margin-top: -10%;
+  }
+  .navbar-brand {
+    padding: 0 12px;
+  }
+  .navbar-toggler {
+    margin-right: 12px;
+  }
+  .nav-item {
+    padding: 6px 12px;
+  }
+</style>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" routerLink="/">Tufts HCI Lab</a>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a routerLink="/">Home</a>
+      </li>
+      <li class="nav-item">
+        <a routerLink="/hci_at_tufts">HCI at Tufts</a>
+      </li>
+      <li class="nav-item">
+        <a routerLink="/people">People</a>
+      </li>
+      <li class="nav-item">
+        <a routerLink="/projects">Projects</a>
+      </li>
+      <li class="nav-item">
+        <a routerLink="/publications">Publications</a>
+      </li>
+      <li class="nav-item">
+        <a routerLink="/code_and_datasets">Code & Datasets</a>
+      </li>
+      <li class="nav-item">
+        <a routerLink="/admissions">Admissions</a>
+      </li>
+    </ul>
+  </div>
 </nav>
-<nav>
-  <a routerLink="/hci_at_tufts">HCI at Tufts</a>
-</nav>
-<nav>
-  <a routerLink="/people">People</a>
-</nav>
-<nav>
-  <a routerLink="/projects">Projects</a>
-</nav>
-<nav>
-  <a routerLink="/publications">Publications</a>
-</nav>
-<nav>
-  <a routerLink="/code_and_datasets">Code & Datasets</a>
-</nav>
-<nav>
-  <a routerLink="/admissions">Admissions</a>
-</nav>
-<router-outlet></router-outlet>
+
+<div class="background-image"><img src="../assets/TJCC-College-Ave-Rendering-Dusk.jpg"></div>
+
+<div class="container"><router-outlet></router-outlet></div>
