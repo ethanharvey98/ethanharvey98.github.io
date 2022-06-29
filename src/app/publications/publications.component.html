@@ -1,1 +1,6 @@
 <p>publications works!</p>
+
+<div *ngFor="let publication of publications">  
+    <div>{{ publication.number }}</div>  
+    <div>{{ publication.reference }} <a *ngIf="publication.link" href="https://{{ publication.link }}">[link]</a></div> 
+</div>
