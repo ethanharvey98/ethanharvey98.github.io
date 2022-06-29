@@ -1,0 +1,14 @@
+[  
+    {  
+      "name": "Rob Jacob",
+      "position": "Faculty",
+      "image": "http://www.cs.tufts.edu/~jacob/portrait.jpg",
+      "url": "http://www.cs.tufts.edu/~jacob/"
+    },  
+    {  
+        "name": "Ethan Harvey",
+        "position": "Ph.D. Student",
+        "image": "https://thostle.com/img/thostle-1280x1280.jpg",
+        "url": "www.thostle.com"
+    }
+]  

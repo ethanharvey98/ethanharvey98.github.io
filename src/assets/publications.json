@@ -1,0 +1,26 @@
+[  
+    {  
+      "number": 1,  
+      "reference": "publication reference 1",
+      "link": "www.google.com"
+    },  
+    {  
+        "number": 2,  
+        "reference": "publication reference 2",
+        "link": "www.google.com"
+    },  
+    {  
+        "number": 3,  
+        "reference": "publication reference 3"
+    },  
+    {  
+        "number": 4,  
+        "reference": "publication reference 4",
+        "link": "www.google.com"
+    },  
+    {  
+        "number": 5,  
+        "reference": "publication reference 5",
+        "link": "www.google.com"
+    }  
+]  
