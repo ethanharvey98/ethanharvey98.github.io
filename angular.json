@@ -21,7 +21,7 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
-              { "glob": "page1.html", "input": "src/assets/", "output": "/code_and_datasets/" }
+              { "glob": "fNIRS2MW.html", "input": "src/assets/", "output": "/code_and_datasets/" }
             ],
             "styles": [
               "src/styles.css"
