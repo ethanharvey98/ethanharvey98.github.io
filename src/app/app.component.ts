@@ -6,8 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  title = 'myApp';
-
   isHomePage(): boolean {
     return (window.location.href === "http://localhost:4200/" ||
     window.location.href === "https://ethanharvey98.github.io/");

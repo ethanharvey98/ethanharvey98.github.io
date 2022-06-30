@@ -15,7 +15,7 @@ interface Publication {
 export class PublicationsComponent implements OnInit {
 
   publications: Publication[] = PublicationsJSON;  
-  years = new Set(this.publications.map(function(publication) {return publication.year;}));
+  years = new Set(this.publications.map(function(publication) {return publication.year;}).sort().reverse());
 
   constructor() { }
 

@@ -1,1 +1,58 @@
 <h1>HCI at Tufts</h1>
+
+<h3>Engineering Psychology</h3>
+<ul>
+    <div *ngFor="let course of courses">
+        <div *ngIf="course.department == 'Engineering Psychology'">
+            <li>{{ course.code }} - {{ course.title }}</li>
+        </div>
+    </div>
+</ul>
+<h3>Psychology</h3>
+<ul>
+    <div *ngFor="let course of courses">
+        <div *ngIf="course.department == 'Psychology'">
+            <li>{{ course.code }} - {{ course.title }}</li>
+        </div>
+    </div>
+</ul>
+<h3>Computer Science</h3>
+<ul>
+    <div *ngFor="let course of courses">
+        <div *ngIf="course.department == 'Computer Science'">
+            <li>{{ course.code }} - {{ course.title }}</li>
+        </div>
+    </div>
+</ul>
+<h3>Child Development</h3>
+<ul>
+    <div *ngFor="let course of courses">
+        <div *ngIf="course.department == 'Child Development'">
+            <li>{{ course.code }} - {{ course.title }}</li>
+        </div>
+    </div>
+</ul>
+<h3>Sociology</h3>
+<ul>
+    <div *ngFor="let course of courses">
+        <div *ngIf="course.department == 'Sociology'">
+            <li>{{ course.code }} - {{ course.title }}</li>
+        </div>
+    </div>
+</ul>
+<h3>Engineering (General)</h3>
+<ul>
+    <div *ngFor="let course of courses">
+        <div *ngIf="course.department == 'Engineering (General)'">
+            <li>{{ course.code }} - {{ course.title }}</li>
+        </div>
+    </div>
+</ul>
+<h3>Studio Art</h3>
+<ul>
+    <div *ngFor="let course of courses">
+        <div *ngIf="course.department == 'Studio Art'">
+            <li>{{ course.code }} - {{ course.title }}</li>
+        </div>
+    </div>
+</ul>
