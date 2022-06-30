@@ -1,6 +1,10 @@
-<p>publications works!</p>
+<h1>Publications</h1>
 
-<div *ngFor="let publication of publications">  
-    <div>{{ publication.number }}</div>  
-    <div>{{ publication.reference }} <a *ngIf="publication.link" href="https://{{ publication.link }}">[link]</a></div> 
+<div *ngFor="let year of years">
+    <h3>{{ year }}</h3>
+    <div *ngFor="let publication of publications">
+        <div *ngIf="publication.year == year">
+            <div>{{ publication.reference }} <a *ngIf="publication.link" href="https://{{ publication.link }}">[link]</a></div> 
+        </div>
+    </div>
 </div>

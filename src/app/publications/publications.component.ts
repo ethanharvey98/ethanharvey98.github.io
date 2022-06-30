@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import PublicationsJSON from '../../assets/publications.json';  
 
 interface Publication {  
-  number: Number;  
+  year: Number;  
   reference: String;
   link?: String;
 }
@@ -15,6 +15,7 @@ interface Publication {
 export class PublicationsComponent implements OnInit {
 
   publications: Publication[] = PublicationsJSON;  
+  years = new Set(this.publications.map(function(publication) {return publication.year;}));
 
   constructor() { }
 

@@ -1,25 +1,25 @@
 [  
     {  
-      "number": 1,  
+      "year": 2022,  
       "reference": "publication reference 1",
       "link": "www.google.com"
     },  
     {  
-        "number": 2,  
+        "year": 2022,  
         "reference": "publication reference 2",
         "link": "www.google.com"
     },  
     {  
-        "number": 3,  
+        "year": 2021,  
         "reference": "publication reference 3"
     },  
     {  
-        "number": 4,  
+        "year": 2020,  
         "reference": "publication reference 4",
         "link": "www.google.com"
     },  
     {  
-        "number": 5,  
+        "year": 2019,  
         "reference": "publication reference 5",
         "link": "www.google.com"
     }  

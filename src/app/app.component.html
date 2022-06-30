@@ -50,3 +50,7 @@
 <div class="background-image"><img src="../assets/TJCC-College-Ave-Rendering-Dusk.jpg"></div>
 
 <div class="container"><router-outlet></router-outlet></div>
+
+<div class="container" *ngIf="isHomePage()">
+  <h1>Home</h1>
+</div>

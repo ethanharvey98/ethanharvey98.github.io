@@ -4,48 +4,47 @@
         height: 100px; 
     }
 </style>
-
-<p>people works!</p>
+<h1>People</h1>
 
 <h3>Faculty</h3>
 <div *ngFor="let person of people">
     <div *ngIf="person.position == 'Faculty'">
-        <div>{{ person.name }}</div>  
+        <div><a *ngIf="person.url" href="https://{{ person.url }}" target="_blank">{{ person.name }}</a><a *ngIf="!person.url">{{ person.name }}</a></div>  
         <img class="profile" src="{{ person.image }}">  
     </div>
 </div>
 <h3>Postdoc</h3>
 <div *ngFor="let person of people">
     <div *ngIf="person.position == 'Postdoc'">
-        <div>{{ person.name }}</div>  
+        <div><a *ngIf="person.url" href="https://{{ person.url }}" target="_blank">{{ person.name }}</a><a *ngIf="!person.url">{{ person.name }}</a></div>  
         <img class="profile" src="{{ person.image }}">  
     </div>
 </div>
 <h3>Ph.D. Students</h3>
 <div *ngFor="let person of people">
     <div *ngIf="person.position == 'Ph.D. Student'">
-        <div>{{ person.name }}</div> 
+        <div><a *ngIf="person.url" href="https://{{ person.url }}" target="_blank">{{ person.name }}</a><a *ngIf="!person.url">{{ person.name }}</a></div>  
         <img class="profile" src="{{ person.image }}"> 
     </div>
 </div>
 <h3>Masters Students</h3>
 <div *ngFor="let person of people">
     <div *ngIf="person.position == 'Masters Student'">
-        <div>{{ person.name }}</div>  
+        <div><a *ngIf="person.url" href="https://{{ person.url }}" target="_blank">{{ person.name }}</a><a *ngIf="!person.url">{{ person.name }}</a></div>  
         <img class="profile" src="{{ person.image }}">  
     </div>
 </div>
 <h3>Undergraduates</h3>
 <div *ngFor="let person of people">
     <div *ngIf="person.position == 'Undergraduate'">
-        <div>{{ person.name }}</div>  
+        <div><a *ngIf="person.url" href="https://{{ person.url }}" target="_blank">{{ person.name }}</a><a *ngIf="!person.url">{{ person.name }}</a></div>  
         <img class="profile" src="{{ person.image }}">  
     </div>
 </div>
 <h3>Alumnus</h3>
 <div *ngFor="let person of people">
     <div *ngIf="person.position == 'Alumni'">
-        <div>{{ person.name }}</div>  
+        <div><a *ngIf="person.url" href="https://{{ person.url }}" target="_blank">{{ person.name }}</a><a *ngIf="!person.url">{{ person.name }}</a></div>  
         <img class="profile" src="{{ person.image }}">  
     </div>
 </div>
