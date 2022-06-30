@@ -10,6 +10,6 @@ export class AppComponent {
 
   isHomePage(): boolean {
     return (window.location.href === "http://localhost:4200/" ||
-    window.location.href === "https://ethanharvey98.github.io");
+    window.location.href === "https://ethanharvey98.github.io/");
   }
 }
