@@ -20,8 +20,17 @@
             "tsConfig": "tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
-              "src/assets",
-              { "glob": "fNIRS2MW.html", "input": "src/assets/", "output": "/code_and_datasets/" }
+              {
+                "glob": "**/*",
+                "input": "src/assets/",
+                "ignore": ["fNIRS2MW.html"],
+                "output": "/assets/"
+              },
+              {
+                "glob": "fNIRS2MW.html",
+                "input": "src/assets/",
+                "output": "/code_and_datasets/"
+              }
             ],
             "styles": [
               "src/styles.css"
