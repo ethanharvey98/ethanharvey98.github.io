@@ -1,26 +1,23 @@
 [  
     {  
-      "year": 2022,  
-      "reference": "publication reference 1",
-      "link": "www.google.com"
+        "year": 2022,  
+        "title": "Taming fNIRS-based BCI Input for Better Calibration and Broader Use",
+        "author": "Liang Wang, Zhe Huang, Ziyu Zhou, Devon McKeon, Giles Blaney, Michael C Hughes, and Robert JK Jacob",
+        "booktitle": "The 34th Annual ACM Symposium on User Interface Software and Technology",
+        "link": "https://dl.acm.org/doi/abs/10.1145/3472749.3474743"
     },  
     {  
         "year": 2022,  
-        "reference": "publication reference 2",
-        "link": "www.google.com"
-    },  
-    {  
-        "year": 2021,  
-        "reference": "publication reference 3"
-    },  
-    {  
-        "year": 2020,  
-        "reference": "publication reference 4",
-        "link": "www.google.com"
+        "title": "The Tufts fNIRS Mental Workload Dataset & Benchmark for Brain-Computer Interfaces that Generalize",
+        "author": "Zhe Huang, Liang Wang, Giles Blaney, Christopher Slaughter, Devon McKeon, Ziyu Zhou, Robert JK Jacob, and Michael C Hughes",
+        "booktitle": "In proceedings of the Neural Information Processing Systems Track on Datasets and Benchmarks",
+        "link": "https://openreview.net/forum?id=QzNHE7QHhut"
     },  
     {  
         "year": 2019,  
-        "reference": "publication reference 5",
-        "link": "www.google.com"
-    }  
+        "title": "Update of fNIRS as an input to brain--computer interfaces: a review of research from the Tufts Human--Computer Interaction Laboratory",
+        "author": "Alexa Bosworth, Matthew Russell, and Robert JK Jacob",
+        "booktitle": "Photonics",
+        "link": "https://www.mdpi.com/2304-6732/6/3/90"
+    }
 ]  

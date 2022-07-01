@@ -3,7 +3,8 @@ import ProjectsJSON from '../../assets/projects.json';
 
 interface Project {  
   name: String;
-  dataset: Boolean;
+  projects: Boolean;
+  code_and_datasets: Boolean;
   page: String;
   image: String;
 }

@@ -3,7 +3,9 @@ import PublicationsJSON from '../../assets/publications.json';
 
 interface Publication {  
   year: Number;  
-  reference: String;
+  title: String;
+  author: String;
+  booktitle: String;
   link?: String;
 }
 

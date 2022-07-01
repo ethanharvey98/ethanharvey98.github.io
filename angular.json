@@ -23,7 +23,7 @@
               {
                 "glob": "**/*",
                 "input": "src/assets/",
-                "ignore": ["fNIRS2MW.html","fNIRS.html"],
+                "ignore": ["fNIRS2MW.html","fNIRS.html","brain-computer-interaction-using-fNIRS.html"],
                 "output": "/assets/"
               },
               {
@@ -35,6 +35,11 @@
                 "glob": "fNIRS.html",
                 "input": "src/assets/",
                 "output": "/code_and_datasets/"
+              },
+              {
+                "glob": "brain-computer-interaction-using-fNIRS.html",
+                "input": "src/assets/",
+                "output": "/projects/"
               }
             ],
             "styles": [

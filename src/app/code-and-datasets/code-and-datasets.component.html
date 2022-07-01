@@ -8,7 +8,11 @@
         color: black;
         background-color: var(--chinese-silver);
         border-radius: 6px 6px 0 0;
+        padding: 6px;
         text-align: center;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
     }
     .project a h5:hover {
         color: var(--dark-charcoal);
@@ -28,7 +32,7 @@
 <h1>Code & Datasets</h1>
 <div class="row no-gutters">
     <ng-container *ngFor="let project of projects">
-        <div *ngIf="project.dataset" class="col-12 col-md-6">
+        <div *ngIf="project.code_and_datasets" class="col-12 col-md-6">
             <div class="project">
                 <a href="{{ project.page }}">
                     <h5>{{ project.name }}</h5>

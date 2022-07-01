@@ -4,7 +4,12 @@
     <h3>{{ year }}</h3>
     <div *ngFor="let publication of publications">
         <div *ngIf="publication.year == year">
-            <div>{{ publication.reference }} <a *ngIf="publication.link" href="https://{{ publication.link }}">[link]</a></div> 
+            <div>
+                <b>{{ publication.title }}</b>.
+                {{ publication.author }}.
+                <i>{{ publication.booktitle }}</i> ({{ publication.year }}).
+                <a *ngIf="publication.link" href="https://{{ publication.link }}">[link]</a>
+            </div> 
         </div>
     </div>
 </div>

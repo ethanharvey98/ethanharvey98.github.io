@@ -1,14 +1,23 @@
 [  
     {  
       "name": "The Tufts fNIRS to Mental Workload Dataset",
-      "dataset": true,
+      "projects": false,
+      "code_and_datasets": true,
       "page": "code_and_datasets/fNIRS2MW.html",
       "image": "assets/fNIRS.png"
     },
     {  
         "name": "Taming fNIRS-based BCI Input for Better Calibration and Broader Use",
-        "dataset": true,
+        "projects": true,
+        "code_and_datasets": true,
         "page": "code_and_datasets/fNIRS.html",
         "image": "assets/three_phases.png"
+    },
+    {  
+        "name": "Brain-Computer Interaction using functional Near-Infrared Spectroscopy (fNIRS)",
+        "projects": true,
+        "code_and_datasets": false,
+        "page": "projects/brain-computer-interaction-using-fNIRS.html",
+        "image": "assets/sides.jpg"
     }
 ]  
