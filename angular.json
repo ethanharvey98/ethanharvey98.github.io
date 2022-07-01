@@ -23,11 +23,16 @@
               {
                 "glob": "**/*",
                 "input": "src/assets/",
-                "ignore": ["fNIRS2MW.html"],
+                "ignore": ["fNIRS2MW.html","fNIRS.html"],
                 "output": "/assets/"
               },
               {
                 "glob": "fNIRS2MW.html",
+                "input": "src/assets/",
+                "output": "/code_and_datasets/"
+              },
+              {
+                "glob": "fNIRS.html",
                 "input": "src/assets/",
                 "output": "/code_and_datasets/"
               }

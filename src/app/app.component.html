@@ -14,6 +14,12 @@
   .welcome-message {
     padding: 24px 0 12px 0;
   }
+  .highlight {
+    border: solid var(--chinese-silver) 1px;
+    border-radius: 9px;
+    margin: 6px 0;
+    padding: 12px;
+  }
   .footer {
     height: 100px;
   }
@@ -58,10 +64,19 @@
 <div class="container"><router-outlet></router-outlet></div>
 
 <div class="container" *ngIf="isHomePage()">
-  <h6 class="welcome-message">Welcome to the homepage of the Human-Computer Interaction Research Group at Tufts University!</h6>
-  <p>The Tufts HCI Lab is directed by <a href="https://www.cs.tufts.edu/~jacob/" target="_blank">Professor Rob Jacob</a> at <a href="https://www.tufts.edu/" target="_blank">Tufts University</a>. Our research covers new interaction modes and techniques and user interface software; our current work focuses on implicit brain-computer interfaces. Lab members include Ph.D. and Master students, undergraduate researchers, post-docs and visiting scholars.</p>
+  <h6 class="welcome-message">Welcome to the homepage of the Human-Computer Interaction (HCI) Lab at Tufts University!</h6>
+  <p>The <a href="https://www.tufts.edu/" target="_blank">Tufts</a> HCI Lab is directed by <a href="https://www.cs.tufts.edu/~jacob/" target="_blank">Professor Rob Jacob</a>. Our research covers new interaction modes and techniques and user interface software; our current work focuses on implicit brain-computer interfaces. Lab members include Ph.D. and Master students, undergraduate researchers, post-docs and visiting scholars.</p>
   <p>We are actively looking for motivated students to join our lab. If you are interested in human-computer interaction research, please email us your CV.</p>
+  
   <h1>Recent Highlights</h1>
+  <div class="highlight">
+    <h4>Highlight</h4>
+    <p>Highlight text</p>
+  </div>
+  <div class="highlight">
+    <h4>Highlight</h4>
+    <p>Highlight text</p>
+  </div>
 </div>
 
 <div class="footer"></div>

@@ -12,3 +12,12 @@
 body {
     background-color: var(--bright-gray)!important;
 }
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+.container {
+    max-width: 1000px;
+}
