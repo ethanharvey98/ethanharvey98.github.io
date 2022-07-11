@@ -1,0 +1,132 @@
+[    
+    {  
+        "department": "Engineering Psychology",
+        "code": "ENP 61",
+        "title": "Introduction to Human Factors and Ergonomics"
+    },  
+    {  
+        "department": "Engineering Psychology",
+        "code": "ENP 105",
+        "title": "Assistive Technology"
+    },  
+    {  
+        "department": "Engineering Psychology",
+        "code": "ENP 120",
+        "title": "Project Study In Human Systems"
+    },  
+    {  
+        "department": "Engineering Psychology",
+        "code": "ENP 161",
+        "title": "Human Factors in Product Design"
+    },  
+    {  
+        "department": "Engineering Psychology",
+        "code": "ENP 162",
+        "title": "Man-Machine System Design"
+    },  
+    {  
+        "department": "Psychology",
+        "code": "PSY 9",
+        "title": "Introduction to Cognitive and Brain Science"
+    },  
+    {  
+        "department": "Psychology",
+        "code": "PSY 13",
+        "title": "Introduction to Social Psychology"
+    },  
+    {  
+        "department": "Psychology",
+        "code": "PSY 17",
+        "title": "Industrial and Organizational Psychology"
+    },  
+    {  
+        "department": "Psychology",
+        "code": "PSY 28",
+        "title": "Cognitive Psychology"
+    },  
+    {  
+        "department": "Psychology",
+        "code": "PSY 53",
+        "title": "Engineering Psychology"
+    },  
+    {  
+        "department": "Psychology",
+        "code": "PSY 130",
+        "title": "Advanced Engineering Psychology"
+    },  
+    {  
+        "department": "Computer Science",
+        "code": "COMP 50",
+        "title": "Introduction to Game Development"
+    },  
+    {  
+        "department": "Computer Science",
+        "code": "COMP 86",
+        "title": "Object-Oriented Programming for Graphical User Interfaces"
+    },  
+    {  
+        "department": "Computer Science",
+        "code": "COMP 171",
+        "title": "Human-Computer Interaction"
+    },  
+    {  
+        "department": "Computer Science",
+        "code": "COMP 175",
+        "title": "Computer Graphics"
+    },  
+    {  
+        "department": "Computer Science",
+        "code": "COMP 250",
+        "title": "Brain Computer Interaction"
+    },  
+    {  
+        "department": "Child Development",
+        "code": "CD 43",
+        "title": "Technologies of the Self"
+    },  
+    {  
+        "department": "Child Development",
+        "code": "CD 145",
+        "title": "Technological Tools for Thinking and Learning"
+    },  
+    {  
+        "department": "Child Development",
+        "code": "CD 167",
+        "title": "Children and the Mass Media"
+    },  
+    {  
+        "department": "Child Development",
+        "code": "CD 243",
+        "title": "Developmental Technologies Seminar"
+    },  
+    {  
+        "department": "Sociology",
+        "code": "SOC 40",
+        "title": "Media and Society"
+    },  
+    {  
+        "department": "Engineering (General)",
+        "code": "EN 10",
+        "title": "Simple Roboticsy"
+    },  
+    {  
+        "department": "Engineering (General)",
+        "code": "EN 11",
+        "title": "New Product Design"
+    },  
+    {  
+        "department": "Engineering (General)",
+        "code": "EN 15",
+        "title": "Usability Engineering"
+    },  
+    {  
+        "department": "Studio Art",
+        "code": "FAM 40",
+        "title": "Graphic Design"
+    },  
+    {  
+        "department": "Studio Art",
+        "code": "FAM 40",
+        "title": "Graphic Design II"
+    }
+]

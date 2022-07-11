@@ -2,44 +2,44 @@
     {  
       "name": "Rob Jacob",
       "position": "Faculty",
-      "image": "http://www.cs.tufts.edu/~jacob/portrait.jpg",
+      "image": "cs.tufts.edu/~jacob/portrait.jpg",
       "url": "www.cs.tufts.edu/~jacob/"
     }, 
     {  
         "name": "Matt Russell",
         "position": "Ph.D. Student",
-        "image": "https://hci.cs.tufts.edu/images/matt.jpg"
+        "image": "hci.cs.tufts.edu/images/matt.jpg"
     },
     {  
         "name": "Liang (Leon) Wang",
         "position": "Ph.D. Student",
-        "image": "https://avatars.githubusercontent.com/u/21259611?v=4"
+        "image": "avatars.githubusercontent.com/u/21259611?v=4"
     },
     {  
         "name": "Zhe (J) Huang",
         "position": "Ph.D. Student",
-        "image": "https://tufts-hci-lab.github.io/people/zhe.jpeg"
+        "image": "tufts-hci-lab.github.io/people/zhe.jpeg"
     },
     {  
         "name": "Ethan Harvey",
         "position": "Ph.D. Student",
-        "image": "https://thostle.com/img/thostle-1280x1280.jpg",
-        "url": "www.thostle.com"
+        "image": "thostle.com/img/thostle-1280x1280.jpg",
+        "url": "thostle.com"
     },  
     {  
         "name": "Ellery Buntle",
         "position": "Ph.D. Student",
-        "image": "https://avatars.githubusercontent.com/u/19584557?v=4"
+        "image": "avatars.githubusercontent.com/u/19584557?v=4"
     },  
     {  
         "name": "Devon McKeon",
         "position": "Masters Student",
-        "image": "https://tufts-hci-lab.github.io/people/Devon.jpeg"
+        "image": "tufts-hci-lab.github.io/people/Devon.jpeg"
     },
     {  
         "name": "Erin Solovey",
         "position": "Alumni",
-        "image": "https://www.wpi.edu/sites/default/files/faculty-image/esolovey.jpg",
-        "url": "https://www.wpi.edu/people/faculty/esolovey"
+        "image": "www.wpi.edu/sites/default/files/faculty-image/esolovey.jpg",
+        "url": "www.wpi.edu/people/faculty/esolovey"
     }
 ]  

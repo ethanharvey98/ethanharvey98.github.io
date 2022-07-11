@@ -19,5 +19,12 @@ a:hover {
     text-decoration: none;
 }
 .container {
-    max-width: 1000px;
+    max-width: 1200px;
+}
+::-webkit-scrollbar {
+    height: 3px;
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background: var(--granite-gray);
 }
