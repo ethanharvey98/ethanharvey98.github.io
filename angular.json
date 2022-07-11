@@ -20,25 +20,20 @@
             "tsConfig": "tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
-              {
-                "glob": "**/*",
-                "input": "src/assets/",
-                "ignore": ["fNIRS2MW.html","fNIRS.html","brain-computer-interaction-using-fNIRS.html"],
-                "output": "/assets/"
-              },
+              "src/assets",
               {
                 "glob": "fNIRS2MW.html",
-                "input": "src/assets/",
+                "input": "src/assets/static-pages/",
                 "output": "/code_and_datasets/"
               },
               {
-                "glob": "fNIRS.html",
-                "input": "src/assets/",
+                "glob": "UIST2021.html",
+                "input": "src/assets/static-pages/",
                 "output": "/code_and_datasets/"
               },
               {
                 "glob": "brain-computer-interaction-using-fNIRS.html",
-                "input": "src/assets/",
+                "input": "src/assets/static-pages/",
                 "output": "/projects/"
               }
             ],

@@ -8,9 +8,9 @@
     },
     {  
         "name": "Taming fNIRS-based BCI Input for Better Calibration and Broader Use",
-        "projects": true,
+        "projects": false,
         "code_and_datasets": true,
-        "page": "code_and_datasets/fNIRS.html",
+        "page": "code_and_datasets/UIST2021.html",
         "image": "assets/three_phases.png"
     },
     {  
