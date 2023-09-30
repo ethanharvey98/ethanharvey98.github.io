@@ -1,0 +1,32 @@
+:root {
+    --bright-gray: #EEEEEE;
+    --chinese-silver: #CCCCCC;
+    --spanish-gray: #999999;
+    --granite-gray: #666666;
+    --dark-charcoal: #333333;
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.column-left {
+    flex-basis: calc(30% - 20px);
+}
+.column-right {
+    flex-basis: calc(70% - 20px);
+}
+@media (max-width: 768px) {
+    .column-left, .column-right {
+        flex-basis: 100%;
+    }
+}
+h2 {
+    border-bottom: var(--bright-gray) solid 1px;
+    margin-bottom: 1rem;
+}
