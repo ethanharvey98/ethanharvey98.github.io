@@ -33,3 +33,7 @@ h1, h2, h3, h4, h5, h6, p {
     border-bottom: var(--bright-gray) solid 1px;
     margin-bottom: 1rem;
 }
+#last-updated {
+    margin-top: 1rem;
+    color: var(--spanish-gray);
+}
