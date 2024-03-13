@@ -15,21 +15,17 @@ body, h1, h2, h3, h4, h5, h6, p {
     margin: 0 auto;
 }
 #nav-bar {
-    width: 100%;
     background-color: var(--bright-gray);
     margin-bottom: 1rem;
 }
 #header {
     margin-top: 16px;
 }
-#nav-bar ul {
-    padding-left: 0;
-    list-style-type: none;
+nav {
     overflow-x: auto;
     white-space: nowrap;
 }
-#nav-bar li {
-    display: inline-block;
+nav a {
     margin-right: 1rem;
 }
 .underlined {
