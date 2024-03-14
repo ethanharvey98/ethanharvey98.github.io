@@ -1,4 +1,4 @@
-<div style="float: right; margin-left: 10px;"><img src="img/Nips19239.JPG" draggable="false" style="width: 200px;"></div>
+<div style="float: right; margin-left: 10px;"><img src="img/Nips19239.JPG" draggable="false" style="float: right; margin-left: 10px; width: 200px;"></div>
 
 ## About Me
 
