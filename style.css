@@ -48,6 +48,7 @@ nav a {
 }
 #home #avatar {
     background-color: var(--chinese-silver); 
+    float: right;
     margin-left: 10px;
     width: 200px;
     height: 0;
