@@ -12,6 +12,8 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 **Nov 2023** Our paper was accepted as an archival Proceedings Track paper at the 3rd [*Machine Learning for Health (ML4H)*](https://ml4h.cc/2023/) symposium.
 
+<br/>
+
 ## Highlighted Pulications
 
 * **Ethan Harvey**, Wansu Chen, David M. Kent, and Michael C. Hughes. A Probabilistic Method to Predict Classifier Accuracy on Larger Datasets given Small Pilot Data. In *Machine Learning for Health (ML4H)*, 2023. (40.3% acceptance rate)\
