@@ -1,4 +1,4 @@
-<img align="right" src="img/Nips19239.JPG"  width="200px">
+<div style="width: 200px;"><img src="img/Nips19239.JPG" draggable="false" style="width: 200px;"></div>
 
 ## About Me
 
