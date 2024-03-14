@@ -46,21 +46,6 @@ nav {
 nav a {
     margin-right: 1rem;
 }
-#home #avatar {
-    aspect-ratio: 1/1;
-    float: right;
-    width: 30%;
-    position: relative;
-    border-left: white solid 1rem;
-    border-bottom: white solid 1rem;
-}
-#home #avatar img {
-    width: calc(100% - 2px);
-    height: calc(100% - 2px);
-    object-fit: cover;
-    display: block;
-    border: var(--bright-gray) solid 1px;
-}
 #last-updated {
     margin-top: 1rem;
     color: var(--spanish-gray);

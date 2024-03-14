@@ -13,7 +13,7 @@ function includeHTML() {
             elmnt.removeAttribute("html");
             includeHTML();
           }
-        }      
+        }
         xhttp.open("GET", file, true);
         xhttp.send();
         return;
