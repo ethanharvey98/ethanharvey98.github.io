@@ -46,6 +46,17 @@ nav {
 nav a {
     margin-right: 1rem;
 }
+#home #avatar {
+    float: right; 
+    margin-left: 10px;
+    width: 200px;
+    height: 200px;
+}
+#home #avatar img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
 #last-updated {
     margin-top: 1rem;
     color: var(--spanish-gray);
