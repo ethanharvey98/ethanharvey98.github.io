@@ -1,3 +1,26 @@
+function includeHTML() {
+    var z, i, elmnt, file, xhttp;
+    z = document.getElementsByTagName("*");
+    for (i = 0; i < z.length; i++) {
+      elmnt = z[i];
+      file = elmnt.getAttribute("html");
+      if (file) {
+        xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+          if (this.readyState == 4) {
+            if (this.status == 200) { elmnt.innerHTML = this.responseText; }
+            if (this.status == 404) { elmnt.innerHTML = "Page not found."; }
+            elmnt.removeAttribute("html");
+            includeHTML();
+          }
+        }      
+        xhttp.open("GET", file, true);
+        xhttp.send();
+        return;
+      }
+    }
+};
+
 const updateLastUpdated = async () => {
     try {
         const response = await fetch('https://api.github.com/repos/ethanharvey98/ethanharvey98.github.io/events');
@@ -13,6 +36,8 @@ const updateLastUpdated = async () => {
         console.error(error);
     }
 };
+
+includeHTML();
 
 updateLastUpdated();
 
@@ -35,28 +60,3 @@ files.forEach(file => {
         console.error(error);
     });
 });
-
-function includeHTML() {
-    var z, i, elmnt, file, xhttp;
-    z = document.getElementsByTagName("*");
-    for (i = 0; i < z.length; i++) {
-      elmnt = z[i];
-      file = elmnt.getAttribute("html");
-      if (file) {
-        xhttp = new XMLHttpRequest();
-        xhttp.onreadystatechange = function() {
-          if (this.readyState == 4) {
-            if (this.status == 200) {elmnt.innerHTML = this.responseText;}
-            if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
-            elmnt.removeAttribute("html");
-            includeHTML();
-          }
-        }      
-        xhttp.open("GET", file, true);
-        xhttp.send();
-        return;
-      }
-    }
-};
-
-includeHTML()
