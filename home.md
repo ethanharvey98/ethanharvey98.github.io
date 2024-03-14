@@ -1,6 +1,6 @@
 ## About Me
 
-<div style="aspect-ratio: 1/1; float: right; osition: relative;">
+<div style="aspect-ratio: 1/1; float: right; width: 30%; position: relative;">
     <img src="https://thostle.com//img/Nips19239.JPG" style="object-fit: cover; width: 100%; height: 100%;">
 </div>
 <img src="https://thostle.com//img/Nips19239.JPG" align="right" width="30%"/>
