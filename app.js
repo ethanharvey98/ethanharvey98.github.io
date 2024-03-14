@@ -16,17 +16,22 @@ const updateLastUpdated = async () => {
 
 updateLastUpdated();
 
-fetch('news.md')
-.then(response => {
-    if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
-    }
-    return response.text();
-})
-.then(mdContent => {
-    const htmlContent = marked(mdContent);
-    document.querySelector('#news').innerHTML = htmlContent;
-})
-.catch(error => {
-    console.error('Error fetching Markdown file:', error);
+const files = ['about_me.md', 'news.md'];
+
+files.forEach(file => {
+    const filename = file.replace('.md', '');
+    fetch(file)
+    .then(response => {
+        if (!response.ok) {
+            throw new Error(response.status);
+        }
+        return response.text();
+    })
+    .then(mdContent => {
+        const htmlContent = marked(mdContent);
+        document.querySelector('#${filename}').innerHTML += htmlContent;
+    })
+    .catch(error => {
+        console.error(error);
+    });
 });
