@@ -46,9 +46,6 @@ nav {
 nav a {
     margin-right: 1rem;
 }
-#home li {
-    margin-bottom: none;
-}
 #last-updated {
     margin-top: 1rem;
     color: var(--spanish-gray);
