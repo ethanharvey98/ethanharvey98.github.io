@@ -12,6 +12,9 @@ body, h1, h2, h3, h4, h5, h6, p {
 a {
     text-decoration: none;
 }
+a:hover {
+    text-decoration: underline;
+}
 .container {
     max-width: 800px;
     padding: 8px;
@@ -26,9 +29,6 @@ a {
 }
 #header a {
     color: black;
-}
-#header a:hover {
-    text-decoration: underline;
 }
 nav {
     overflow-x: auto;
