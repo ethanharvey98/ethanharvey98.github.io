@@ -1,4 +1,4 @@
-![image](https://github.com/ethanharvey98/ethanharvey98.github.io/assets/43649122/71805472-c5f8-40a4-a91d-7bd8820c8824)## About Me
+## About Me
 
 I am a Ph.D. candidate in the [Machine Learning Research Group](https://github.com/tufts-ml/) at [Tufts University](https://www.tufts.edu/), advised by [Dr. Michael C. Hughes](https://www.michaelchughes.com/). I do research in machine learning for healthcare, with a focus on probabilistic machine learning and Bayesian deep learning.
 
@@ -6,7 +6,7 @@ I graduated with a B.S. in Computer Science and Mathematics minor from [Grove Ci
 
 ## News
 
-**Nov 2023** Our paper was accepted as an archival Proceedings Track paper at the 3rd *Machine Learning for Health (ML4H)* symposium.
+**Nov 2023** Our paper was accepted as an archival Proceedings Track paper at the 3rd [*Machine Learning for Health (ML4H)*](https://ml4h.cc/2023/) symposium.
 
 ## Highlighted Pulications
 
