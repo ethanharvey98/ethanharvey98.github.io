@@ -16,7 +16,7 @@ const updateLastUpdated = async () => {
 
 updateLastUpdated();
 
-const files = ['about_me.md', 'news.md'];
+const files = ['home.md'];
 
 files.forEach(file => {
     const filename = file.replace('.md', '');
