@@ -11,4 +11,4 @@ I graduated with a B.S. in Computer Science and Mathematics minor from [Grove Ci
 ## Highlighted Pulications
 
 * **Ethan Harvey**, Wansu Chen, David M. Kent, and Michael C. Hughes. A Probabilistic Method to Predict Classifier Accuracy on Larger Datasets given Small Pilot Data. In *Machine Learning for Health (ML4H)*, 2023. (40.3% acceptance rate)\
-  [[Abstract](https://proceedings.mlr.press/v225/harvey23a.html)] [[PDF](https://proceedings.mlr.press/v225/harvey23a/harvey23a.pdf)] [[GitHub](https://github.com/tufts-ml/extrapolating-classifier-accuracy-to-larger-datasets)]
+  [<a href="https://proceedings.mlr.press/v225/harvey23a.html" target="_blank">Abstract</a>] [[PDF](https://proceedings.mlr.press/v225/harvey23a/harvey23a.pdf)] [[GitHub](https://github.com/tufts-ml/extrapolating-classifier-accuracy-to-larger-datasets)]
