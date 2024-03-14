@@ -47,13 +47,15 @@ nav a {
     margin-right: 1rem;
 }
 #home #avatar {
-    background-color: var(--chinese-silver); 
     float: right;
     margin-left: 10px;
-    width: 200px;
+    width: 20%;
+    max-width: 200px;
     height: 0;
-    padding-bottom: 200px;
-}
+    padding-bottom: 100%;
+    position: relative;
+    overflow: hidden;
+  }
 #last-updated {
     margin-top: 1rem;
     color: var(--spanish-gray);
