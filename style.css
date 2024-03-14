@@ -49,11 +49,10 @@ nav a {
 #home #avatar {
     aspect-ratio: 1 / 1;
     float: right;
-    border-left: white solid 1rem;
     width: 30%;
-    max-width: 300px;
     position: relative;
-    overflow: hidden;
+    border: var(--bright-gray) solid 3px;
+    box-shadow: 0 0 0 1 var(--bright-gray) 1px;
 }
 #home #avatar img {
     width: 100%;
