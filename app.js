@@ -29,7 +29,7 @@ files.forEach(file => {
     })
     .then(mdContent => {
         const htmlContent = marked(mdContent);
-        document.querySelector('#${filename}').innerHTML += htmlContent;
+        document.querySelector('#'+filename).innerHTML += htmlContent;
     })
     .catch(error => {
         console.error(error);
