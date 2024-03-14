@@ -1,9 +1,3 @@
-fetch('news.md')
-.then(mdContent => {
-    const htmlContent = marked(mdContent);
-    document.querySelector('#news').innerHTML = htmlContent;
-})
-
 const updateLastUpdated = async () => {
     try {
         const response = await fetch('https://api.github.com/repos/ethanharvey98/ethanharvey98.github.io/events');
@@ -21,3 +15,18 @@ const updateLastUpdated = async () => {
 };
 
 updateLastUpdated();
+
+fetch('news.md')
+.then(response => {
+    if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    return response.text();
+})
+.then(mdContent => {
+    const htmlContent = marked(mdContent);
+    document.querySelector('#news').innerHTML = htmlContent;
+})
+.catch(error => {
+    console.error('Error fetching Markdown file:', error);
+});
