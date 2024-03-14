@@ -6,6 +6,8 @@ I am a Ph.D. candidate in the <a href="https://github.com/tufts-ml/" target="_bl
 
 I graduated with a B.S. in Computer Science and Mathematics minor from <a href="https://www.gcc.edu/" target="_blank">Grove City College</a>, where I worked with <a href="https://www.gcc.edu/Home/Academics/Faculty-Directory/Faculty-Detail/jonathan-o-hutchins" target="_blank">Dr. Jonathan O. Hutchins</a> on acoustic gait analysis using unsupervised learning.
 
+<br clear="right"/>
+
 ## News
 
 **Nov 2023** Our paper was accepted as an archival Proceedings Track paper at the 3rd [*Machine Learning for Health (ML4H)*](https://ml4h.cc/2023/) symposium.
