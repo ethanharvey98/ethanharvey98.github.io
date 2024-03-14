@@ -47,11 +47,10 @@ nav a {
     margin-right: 1rem;
 }
 #home #avatar {
-    border: var(--bright-gray) solid 1px;
     aspect-ratio: 1 / 1;
     float: right;
-    padding-left: 10px;
-    width: 20%;
+    border-left: white solid 1rem;
+    width: 30%;
     max-width: 300px;
     position: relative;
     overflow: hidden;
