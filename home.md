@@ -1,5 +1,3 @@
-<div style="float: right; margin-left: 10px;"><img src="img/Nips19239.JPG" draggable="false" style="float: right; margin-left: 10px; width: 200px;"></div>
-
 ## About Me
 
 I am a Ph.D. candidate in the [Machine Learning Research Group](https://github.com/tufts-ml/) at [Tufts University](https://www.tufts.edu/), advised by [Dr. Michael C. Hughes](https://www.michaelchughes.com/). I do research in machine learning for healthcare, with a focus on probabilistic machine learning and Bayesian deep learning.
