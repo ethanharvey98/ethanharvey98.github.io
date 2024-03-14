@@ -9,6 +9,14 @@ body, h1, h2, h3, h4, h5, h6, p {
     font-family: sans-serif;
     margin: 0;
 }
+h2 {
+    width: 100%;
+    border-bottom: var(--bright-gray) solid 1px;
+    margin-bottom: 1rem;
+}
+p {
+    margin-bottom: 1rem;
+}
 a {
     text-decoration: none;
 }
@@ -38,13 +46,8 @@ nav {
 nav a {
     margin-right: 1rem;
 }
-h2 {
-    width: 100%;
-    border-bottom: var(--bright-gray) solid 1px;
-    margin-bottom: 1rem;
-}
-p {
-    margin-bottom: 1rem;
+#home li {
+    margin-bottom: none;
 }
 #last-updated {
     margin-top: 1rem;
