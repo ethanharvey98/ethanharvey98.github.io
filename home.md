@@ -1,6 +1,6 @@
 ## About Me
 
-<img src="https://thostle.com//img/Nips19239.JPG" align="right" width="30%"/>
+<img src="https://thostle.com/img/Nips19239.JPG" align="right" width="30%"/>
 
 I am a Ph.D. candidate in the <a href="https://github.com/tufts-ml/" target="_blank">Machine Learning Research Group</a> at <a href="https://www.tufts.edu/" target="_blank">Tufts University</a>, advised by <a href="https://www.michaelchughes.com/" target="_blank">Dr. Michael C. Hughes</a>. I do research in machine learning for healthcare, with a focus on probabilistic machine learning and Bayesian deep learning.
 
