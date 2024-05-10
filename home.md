@@ -10,6 +10,8 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 ## News
 
+**May 2024** Our paper was accepted in Transactions on Machine Learning Research (TMLR), [Transfer Learning with Informative Priors: Simple Baselines Better than Previously Reported](https://openreview.net/forum?id=BbvSU02jLg).
+
 **Nov 2023** Our paper was accepted as an archival Proceedings Track paper at the 3rd [*Machine Learning for Health (ML4H)*](https://ml4h.cc/2023/) symposium, co-located with NeurIPS 2023.
 
 <br/>
