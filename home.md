@@ -10,6 +10,8 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 ## News
 
+<!--- Invited talk at Predictive Analytics + Comparative Effectiveness (PACE) Center, Tufts Medical Center, on Title (<a href="https://proceedings.mlr.press/v225/harvey23a/harvey23a.pdf" target="_blank">Harvey et al. 2023</a>). --->
+
 **May 2024** Our paper was accepted in *Transactions on Machine Learning Research (TMLR)*, [Transfer Learning with Informative Priors: Simple Baselines Better than Previously Reported](https://openreview.net/forum?id=BbvSU02jLg).
 
 **Nov 2023** Our paper was accepted as an archival Proceedings Track paper at the 3rd [*Machine Learning for Health (ML4H)*](https://ml4h.cc/2023/) symposium, co-located with NeurIPS 2023.
