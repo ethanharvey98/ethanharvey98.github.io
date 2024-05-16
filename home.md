@@ -20,7 +20,7 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 ## Highlighted Pulications
 
-* **Ethan Harvey***, Mikhail Petrov*, and Michael C. Hughes. Transfer Learning with Informative Priors: Simple Baselines Better than Previously Reported. *Transactions on Machine Learning Research (TMLR)*, 2024.\
+* **Ethan Harvey***, Mikhail Petrov*, and Michael C. Hughes. Transfer Learning with Informative Priors: Simple Baselines Better than Previously Reported. *Transactions on Machine Learning Research (TMLR)*, 2024. ISSN XXXX-XXXX.\
   [<a href="https://openreview.net/pdf?id=BbvSU02jLg" target="_blank">PDF</a>] [<a href="https://github.com/tufts-ml/bdl-transfer-learning" target="_blank">GitHub</a>]
 
 * **Ethan Harvey**, Wansu Chen, David M. Kent, and Michael C. Hughes. A Probabilistic Method to Predict Classifier Accuracy on Larger Datasets given Small Pilot Data. In *Machine Learning for Health (ML4H)*, 2023. (28.7% acceptance rate)\
