@@ -10,7 +10,7 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 ## News
 
-**July 2024** Invited talk at Predictive Analytics + Comparative Effectiveness (PACE) Center, Tufts Medical Center, on Building Effective Medical Imaging Classifiers from Small Pilot Data (<a href="https://proceedings.mlr.press/v225/harvey23a/harvey23a.pdf" target="_blank">Harvey et al. 2023</a>).
+**July 2024** Invited talk at Predictive Analytics + Comparative Effectiveness (PACE) Center, Tufts Medical Center, on Building Effective Neuroimaging Classifiers from Small Pilot Data (<a href="https://proceedings.mlr.press/v225/harvey23a/harvey23a.pdf" target="_blank">Harvey et al. 2023</a>).
 
 **May 2024** Our paper was accepted in *Transactions on Machine Learning Research (TMLR)*, [Transfer Learning with Informative Priors: Simple Baselines Better than Previously Reported](https://openreview.net/forum?id=BbvSU02jLg).
 
