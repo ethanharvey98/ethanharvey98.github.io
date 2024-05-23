@@ -10,7 +10,7 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 ## News
 
-**July 2024** Invited talk at Predictive Analytics + Comparative Effectiveness (PACE) Center, Tufts Medical Center, on Probabilistic Methods for Building Effective Medical Imaging Classifiers.
+**July 2024** Invited talk at Predictive Analytics + Comparative Effectiveness (PACE) Center, Tufts Medical Center.
 
 **May 2024** Our paper was accepted in *Transactions on Machine Learning Research (TMLR)*, [Transfer Learning with Informative Priors: Simple Baselines Better than Previously Reported](https://openreview.net/forum?id=BbvSU02jLg).
 
