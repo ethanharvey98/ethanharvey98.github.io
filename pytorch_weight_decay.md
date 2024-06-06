@@ -12,7 +12,7 @@ Regularization is a common approach to prevent overfitting in deep learning mode
 
 ### What is weight decay?
 
-Weight decay is a common term for L2 regularization. This regularization technique biases the parameters towards smaller values by adding a regularization term $\Omega(\theta) = \frac{1}{2} ||\theta||_2^2$ to the (unpenalized) loss function $f(\theta)$. In practice, we use a decay parameter $\lambda > 0$, tuned on validation data, to determine model capacity
+Weight decay is a common term for L2 regularization. This regularization technique biases the parameters towards smaller values by adding a regularization term $\Omega(\theta) = \frac{1}{2} ||\theta||_2^2$ to the (unpenalized) loss function $f(\theta)$. In practice, we tune a decay parameter $\lambda > 0$ on validation data to determine model capacity
 
 ```math
     L(\theta) := \underbrace{- \frac{1}{n} \sum_{i=1}^n \log p(y_i | x_i, \theta)}_{f(\theta)}  + \frac{\lambda}{2} ||\theta||_2^2.
