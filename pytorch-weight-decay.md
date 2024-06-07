@@ -6,7 +6,7 @@ June 11, 2024
 
 ### What is weight decay?
 
-Regularization is a common approach to reduce overfitting in deep learning models. Weight decay, also known as L2 regularization, reduces overfitting by adding the L2 norm of model parameters to the loss function. This penalty term is known as weight decay, because it biases parameter values toward the origin. Given a training dataset $\mathcal{D} = \\{x_i, y_i\\}_{i=1}^n$ and probabilistic model $p(y | x, \theta)$, we minimize a regularized negative log-likelihood
+Regularization is a common approach to reduce overfitting in deep learning models. Weight decay, also known as L2 regularization, reduces overfitting by adding the L2 norm of model parameters to the loss function. This penalty term is known as weight decay, because it biases parameter values toward the origin. Given a training dataset $\mathcal{D} = \\{x_i, y_i\\}_{i=1}^n$ and probabilistic model $p(y | x, \theta)$, we minimize the regularized negative log-likelihood
 
 ```math
     L(\theta) := \underbrace{- \frac{1}{n} \sum_{i=1}^n \log p(y_i | x_i, \theta)}_{f(\theta)}  + \frac{\lambda}{2} ||\theta||_2^2
