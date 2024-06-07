@@ -14,17 +14,14 @@ Regularization is a common approach to reduce overfitting in deep learning model
 
 where $f(\theta)$ is the (unpenalized) loss function (e.g., mean squared error, cross entropy) and $\lambda \in [0, \infty)$ is a hyperparameter that determines the relative weight of the penalty term compared to the loss function.
 
-```python
-def mse_loss(y_hat, y):
-    return torch.mean((y - y_hat) ** 2)
-
-def l2_penalty(params):
-    return torch.sum(params ** 2) / 2
-```
-
 ### How is weight decay implemented in PyTorch?
 
 Stocastic gradient descent (SGD) in PyTorch implements weight decay via an efficient direct modification of the gradient vector. Given decay parameter $\lambda > 0$, at iteration $t$ the optimizer internally performs an additive incremental update of the gradient with respect to parameters: $\nabla_\theta f(\theta_{t-1}) = \nabla_\theta f(\theta_{t-1}) + \lambda \theta_{t-1}$ where $f(\theta)$ is the (unpenalized) loss function (e.g., mean squared error, cross entropy). This direct modification is equivalent to, but more efficient than, automatic differentiation of a penalized loss that includes an L2 penalty term for $\theta$.
+
+### A Bayesian interpretation
+
+### How to implement weight decay from scratch?
+
 
 ### References
 
