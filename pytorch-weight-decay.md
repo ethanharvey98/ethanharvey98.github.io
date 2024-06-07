@@ -4,19 +4,15 @@
 
 June 11, 2024
 
-Regularization is a common approach to prevent overfitting in deep learning models. Many regularization techniques limit model capacity by adding a parameter norm penalty $\Omega(\theta)$ to the (unpenalized) loss function $f(\theta)$. For example, given a training dataset $\mathcal{D} = \\{x_i, y_i\\}_{i=1}^n$ and probabilistic model $p(y | x, \theta)$, we minimize the regularized negative log-likelihood
-
-```math
-    L(\theta) := \underbrace{- \frac{1}{n} \sum_{i=1}^n \log p(y_i | x_i, \theta)}_{f(\theta)}  + \Omega(\theta).
-```
-
 ### What is weight decay?
 
-Weight decay is a common term for L2 regularization. This regularization technique biases the parameters towards smaller values by adding a regularization term $\Omega(\theta) = \frac{1}{2} ||\theta||_2^2$ to the (unpenalized) loss function $f(\theta)$. In practice, a decay parameter $\lambda > 0$ is tuned on validation data to determine model capacity
+Regularization is a common approach to reduce overfitting in deep learning models. Weight decay, also known as L2 regularization, reduces overfitting by adding the L2 norm of model parameters to the loss function. This penalty term is known as weight decay, because it biases parameter values toward the origin. Given a training dataset $\mathcal{D} = \\{x_i, y_i\\}_{i=1}^n$ and probabilistic model $p(y | x, \theta)$, we minimize a regularized negative log-likelihood
 
 ```math
-    L(\theta) := \underbrace{- \frac{1}{n} \sum_{i=1}^n \log p(y_i | x_i, \theta)}_{f(\theta)}  + \frac{\lambda}{2} ||\theta||_2^2.
+    L(\theta) := \underbrace{- \frac{1}{n} \sum_{i=1}^n \log p(y_i | x_i, \theta)}_{f(\theta)}  + \frac{\lambda}{2} ||\theta||_2^2
 ```
+
+where $f(\theta)$ is the (unpenalized) loss function (e.g., mean squared error, cross entropy) and $\lambda \in [0, \infty)$ is a hyperparameter that determines the relative weight of the penalty term compared to the loss function.
 
 ```python
 def mse_loss(y_hat, y):
@@ -28,7 +24,7 @@ def l2_penalty(params):
 
 ### How is weight decay implemented in PyTorch?
 
-Stocastic gradient descent (SGD) in PyTorch implements weight decay via an efficient direct modification of the gradient vector. Given decay parameter $\lambda > 0$, at iteration $t$ the optimizer internally performs an additive incremental update of the gradient with respect to parameters: $\nabla_\theta f(\theta_{t-1}) = \nabla_\theta f(\theta_{t-1}) + \lambda \theta_{t-1}$ where $f(\theta)$ is the (unpenalized) loss function (e.g. cross entropy). This direct modification is equivalent to, but more efficient than, automatic differentiation of a penalized loss that includes an L2 penalty term for $\theta$.
+Stocastic gradient descent (SGD) in PyTorch implements weight decay via an efficient direct modification of the gradient vector. Given decay parameter $\lambda > 0$, at iteration $t$ the optimizer internally performs an additive incremental update of the gradient with respect to parameters: $\nabla_\theta f(\theta_{t-1}) = \nabla_\theta f(\theta_{t-1}) + \lambda \theta_{t-1}$ where $f(\theta)$ is the (unpenalized) loss function (e.g., mean squared error, cross entropy). This direct modification is equivalent to, but more efficient than, automatic differentiation of a penalized loss that includes an L2 penalty term for $\theta$.
 
 ### References
 
