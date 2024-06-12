@@ -107,13 +107,15 @@ from_scratch_preds = model(featurize(linspace))
 end = time.time()
 print(f'Elapsed time: {end - start}')
 ```
-```
-Epoch: 0, NLL: 0.6727076768875122
-Epoch: 1, NLL: 0.47100338339805603
-Epoch: 2, NLL: 0.5295957922935486
-Epoch: 3, NLL: 0.4758244454860687
-Epoch: 4, NLL: 0.4135437607765198
-Elapsed time: 0.880873441696167
+```math
+\begin{flalign*}
+    &\texttt{Epoch: 0, NLL: 0.6727076768875122} & \\
+    &\texttt{Epoch: 1, NLL: 0.47100338339805603} & \\
+    &\texttt{Epoch: 2, NLL: 0.5295957922935486} & \\
+    &\texttt{Epoch: 3, NLL: 0.4758244454860687} & \\
+    &\texttt{Epoch: 4, NLL: 0.4135437607765198} & \\
+    &\texttt{Elapsed time: 0.880873441696167} &
+\end{flalign*}
 ```
 
 TODO
@@ -150,12 +152,14 @@ TODO
 for from_scratch_grad, pytorch_grad in zip(from_scratch_grads, pytorch_grads):
     print(np.linalg.norm(from_scratch_grad - pytorch_grad))
 ```
-```
-0.0
-0.0
-0.0
-0.0
-0.0
+```math
+\begin{flalign*}
+    &\texttt{0.0} & \\
+    &\texttt{0.0} & \\
+    &\texttt{0.0} & \\
+    &\texttt{0.0} & \\
+    &\texttt{0.0} &
+\end{flalign*}
 ```
 
 TODO
@@ -188,13 +192,15 @@ bayesian_preds = model(featurize(linspace))
 end = time.time()
 print(f'Elapsed time: {end - start}')
 ```
-```
-Epoch: 0, NLL: 0.6727076768875122
-Epoch: 1, NLL: 0.47100338339805603
-Epoch: 2, NLL: 0.5295957922935486
-Epoch: 3, NLL: 0.4758244454860687
-Epoch: 4, NLL: 0.4135437607765198
-Elapsed time: 0.9935193061828613
+```math
+\begin{flalign*}
+    &\texttt{Epoch: 0, NLL: 0.6727076768875122} & \\
+    &\texttt{Epoch: 1, NLL: 0.47100338339805603} & \\
+    &\texttt{Epoch: 2, NLL: 0.5295957922935486} & \\
+    &\texttt{Epoch: 3, NLL: 0.4758244454860687} & \\
+    &\texttt{Epoch: 4, NLL: 0.4135437607765198} & \\
+    &\texttt{Elapsed time: 0.9935193061828613} &
+\end{flalign*}
 ```
 
 TODO
@@ -202,12 +208,14 @@ TODO
 for bayesian_grad, pytorch_grad in zip(bayesian_grads, pytorch_grads):
     print(np.linalg.norm(bayesian_grad - pytorch_grad))
 ```
-```
-4.2720878e-08
-1.1872358e-08
-3.161624e-08
-9.324012e-09
-8.653672e-09
+```math
+\begin{flalign*}
+    &\texttt{4.2720878e-08} & \\
+    &\texttt{1.1872358e-08} & \\
+    &\texttt{3.161624e-08} & \\
+    &\texttt{9.324012e-09} & \\
+    &\texttt{8.653672e-09} &
+\end{flalign*}
 ```
 
 TODO
@@ -224,7 +232,7 @@ fig.tight_layout()
 plt.show()
 ```
 
-![Figure 2](./preds.png)
+![Figure 2](./predictions.png)
 
 
 ### References
