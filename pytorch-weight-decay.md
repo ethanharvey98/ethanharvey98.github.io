@@ -63,6 +63,8 @@ y = model(f).detach() + torch.randn(60,1)*0.5
 ncols, nrows = 1, 1
 fig, axs = plt.subplots(ncols=ncols, nrows=nrows, figsize=(4*ncols, 3*nrows))
 axs.scatter(x, y, color='#D62728')
+axs.set_xlabel('x')
+axs.set_ylabel('y')
 fig.tight_layout()
 plt.show()
 ```
@@ -231,13 +233,17 @@ for bayesian_grad, pytorch_grad in zip(bayesian_grads, pytorch_grads):
 TODO
 ```python
 ncols, nrows = 3, 1
-fig, axs = plt.subplots(ncols=ncols, nrows=nrows, figsize=(4*ncols, 3*nrows))
+fig, axs = plt.subplots(ncols=ncols, nrows=nrows, figsize=(4*ncols, 3*nrows), sharey=True)
 axs[0].scatter(x, y, color='#D62728')
 axs[0].plot(linspace.data.numpy(), from_scratch_preds.data.numpy(), color='#1F77B4', lw=5)
+axs[0].set_xlabel('x')
+axs[0].set_ylabel('y')
 axs[1].scatter(x, y, color='#D62728')
 axs[1].plot(linspace.data.numpy(), pytorch_preds.data.numpy(), color='#1F77B4', lw=5)
+axs[1].set_xlabel('x')
 axs[2].scatter(x, y, color='#D62728')
 axs[2].plot(linspace.data.numpy(), bayesian_preds.data.numpy(), color='#1F77B4', lw=5)
+axs[2].set_xlabel('x')
 fig.tight_layout()
 plt.show()
 ```
