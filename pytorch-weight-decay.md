@@ -67,7 +67,7 @@ fig.tight_layout()
 plt.show()
 ```
 
-![Figure 1](./example_data.png)
+![Figure 1](./img/example_data.png)
 
 Reinitialized model and save parameters so we can train each model from the same initialization.
 ```python
@@ -232,7 +232,7 @@ fig.tight_layout()
 plt.show()
 ```
 
-![Figure 2](./predictions.png)
+![Figure 2](./img/predictions.png)
 
 
 ### References
