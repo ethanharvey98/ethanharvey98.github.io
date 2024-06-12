@@ -109,12 +109,12 @@ print(f'Elapsed time: {end - start}')
 ```
 ```math
 \begin{flalign*}
-    &\texttt{Epoch: 0, NLL: 0.6727076768875122} & \\
-    &\texttt{Epoch: 1, NLL: 0.47100338339805603} & \\
-    &\texttt{Epoch: 2, NLL: 0.5295957922935486} & \\
-    &\texttt{Epoch: 3, NLL: 0.4758244454860687} & \\
-    &\texttt{Epoch: 4, NLL: 0.4135437607765198} & \\
-    &\texttt{Elapsed time: 0.880873441696167} &
+    &\texttt{Epoch: 0, NLL: 0.34148409962654114} & \\
+    &\texttt{Epoch: 1, NLL: 0.3035143315792084} & \\
+    &\texttt{Epoch: 2, NLL: 0.29991042613983154} & \\
+    &\texttt{Epoch: 3, NLL: 0.297762930393219} & \\
+    &\texttt{Epoch: 4, NLL: 0.29601001739501953} & \\
+    &\texttt{Elapsed time: 0.9506773948669434} &
 \end{flalign*}
 ```
 
@@ -145,6 +145,16 @@ for epoch in range(1_000):
 pytorch_preds = model(featurize(linspace))
 end = time.time()
 print(f'Elapsed time: {end - start}')
+```
+```math
+\begin{flalign*}
+    &\texttt{Epoch: 0, NLL: 0.34148409962654114} & \\
+    &\texttt{Epoch: 1, NLL: 0.3035143315792084} & \\
+    &\texttt{Epoch: 2, NLL: 0.29991042613983154} & \\
+    &\texttt{Epoch: 3, NLL: 0.297762930393219} & \\
+    &\texttt{Epoch: 4, NLL: 0.29601001739501953} & \\
+    &\texttt{Elapsed time: 0.9506773948669434} &
+\end{flalign*}
 ```
 
 TODO
@@ -199,7 +209,7 @@ print(f'Elapsed time: {end - start}')
     &\texttt{Epoch: 2, NLL: 0.5295957922935486} & \\
     &\texttt{Epoch: 3, NLL: 0.4758244454860687} & \\
     &\texttt{Epoch: 4, NLL: 0.4135437607765198} & \\
-    &\texttt{Elapsed time: 0.9935193061828613} &
+    &\texttt{Elapsed time: 1.043891429901123} &
 \end{flalign*}
 ```
 
@@ -210,11 +220,11 @@ for bayesian_grad, pytorch_grad in zip(bayesian_grads, pytorch_grads):
 ```
 ```math
 \begin{flalign*}
-    &\texttt{4.2720878e-08} & \\
-    &\texttt{1.1872358e-08} & \\
-    &\texttt{3.161624e-08} & \\
-    &\texttt{9.324012e-09} & \\
-    &\texttt{8.653672e-09} &
+    &\texttt{6.3539236e-09} & \\
+    &\texttt{1.26172655e-08} & \\
+    &\texttt{8.680424e-09} & \\
+    &\texttt{1.02309174e-08} & \\
+    &\texttt{7.843874e-09} &
 \end{flalign*}
 ```
 
