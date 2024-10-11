@@ -20,7 +20,7 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 ## Highlighted Pulications
 
-* **Ethan Harvey**\*, Mikhail Petrov\*, and Michael C. Hughes. Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective. In *NeurIPS Workshop on Fine-Tuning in Machine Learning (FITML@NeurIPS 2024)*, 2024.\
+* **Ethan Harvey**\*, Mikhail Petrov\*, and Michael C. Hughes. Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective. In *NeurIPS Workshop on Fine-Tuning in Machine Learning (FITML@NeurIPS)*, 2024.\
   [<a href="https://openreview.net/forum?id=wzvP0CJ8h4" target="_blank">OpenReview</a>]
 
 * **Ethan Harvey**\*, Mikhail Petrov\*, and Michael C. Hughes. Transfer Learning with Informative Priors: Simple Baselines Better than Previously Reported. *Transactions on Machine Learning Research (TMLR)*, 2024. ISSN 2835-8856. (Presented at NeurIPS 2024 poster session)\
