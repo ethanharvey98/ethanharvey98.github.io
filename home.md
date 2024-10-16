@@ -10,6 +10,8 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 ## News
 
+**December 2024** Presented our TMLR paper at [NeurIPS 2024 poster session](https://neurips.cc/virtual/2024/poster/99332).
+
 **July 2024** Invited talk at Predictive Analytics + Comparative Effectiveness (PACE) Center, Tufts Medical Center.
 
 **May 2024** Our paper was accepted in *Transactions on Machine Learning Research (TMLR)*, [Transfer Learning with Informative Priors: Simple Baselines Better than Previously Reported](https://openreview.net/forum?id=BbvSU02jLg).
