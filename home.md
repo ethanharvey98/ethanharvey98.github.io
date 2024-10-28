@@ -22,7 +22,7 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 <br/>
 
-## Highlighted Pulications
+## Highlighted Publications
 
 * **Ethan Harvey**\*, Mikhail Petrov\*, and Michael C. Hughes. Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective. In *NeurIPS Workshop on Fine-Tuning in Machine Learning (FITML@NeurIPS)*, 2024.\
   [<a href="https://openreview.net/forum?id=wzvP0CJ8h4" target="_blank">OpenReview</a>] [<a href="https://openreview.net/pdf?id=wzvP0CJ8h4" target="_blank">PDF</a>] [<a href="https://github.com/tufts-ml/data-emphasized-ELBo" target="_blank">GitHub</a>]
