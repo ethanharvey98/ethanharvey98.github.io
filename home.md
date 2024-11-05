@@ -12,7 +12,7 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 **December 2024** Presented our TMLR paper at [NeurIPS 2024 poster session](https://neurips.cc/virtual/2024/poster/99332).
 
-**October 2024** Our paper was accepted at the *Workshop on Fine-Tuning in Machine Learning (FITML@NeurIPS)*, [Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective](https://openreview.net/forum?id=wzvP0CJ8h4).
+**October 2024** Our paper was accepted at the *Workshop on Fine-Tuning in Machine Learning (FITML@NeurIPS 2024)*, [Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective](https://openreview.net/forum?id=wzvP0CJ8h4).
 
 **July 2024** Invited talk at Predictive Analytics + Comparative Effectiveness (PACE) Center, Tufts Medical Center.
 
