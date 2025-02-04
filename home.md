@@ -10,7 +10,7 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 ## News
 
-**January 2025** Check out out preprint, [Learning Hyperparameters via a Data-Emphasized Variational Objective](https://ethanharvey.com/papers/harvey2025learning.pdf).
+**January 2025** Check out our preprint, [Learning Hyperparameters via a Data-Emphasized Variational Objective](https://ethanharvey.com/papers/harvey2025learning.pdf).
 
 **December 2024** Presented our TMLR paper at [NeurIPS 2024 poster session](https://neurips.cc/virtual/2024/poster/99332).
 
