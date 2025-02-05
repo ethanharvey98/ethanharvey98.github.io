@@ -10,7 +10,7 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 ## News
 
-**January 2025** Check out our preprint, [Learning Hyperparameters via a Data-Emphasized Variational Objective](https://ethanharvey.com/papers/harvey2025learning.pdf).
+**January 2025** Check out our preprint, [Learning Hyperparameters via a Data-Emphasized Variational Objective](https://arxiv.org/abs/2502.01861).
 
 **December 2024** Presented our TMLR paper at [NeurIPS 2024 poster session](https://neurips.cc/virtual/2024/poster/99332).
 
@@ -27,7 +27,7 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 For a complete list, please see my <a target="_blank" href="https://scholar.google.com/citations?user=mHjMU6MAAAAJ">Google Scholar</a> profile.
 
 * **Ethan Harvey**, Mikhail Petrov, and Michael C. Hughes. Learning Hyperparameters via a Data-Emphasized Variational Objective. *Preprint*, 2025.\
-  [<a href="https://ethanharvey.com/papers/harvey2025learning.pdf" target="_blank">PDF</a>]
+  [<a href="https://arxiv.org/abs/2502.01861" target="_blank">arXiv</a>]
 
 * **Ethan Harvey**, Mikhail Petrov, and Michael C. Hughes. Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective. In *NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability*, 2024.\
   [<a href="https://openreview.net/forum?id=wzvP0CJ8h4" target="_blank">OpenReview</a>] [<a href="https://openreview.net/pdf?id=wzvP0CJ8h4" target="_blank">PDF</a>] [<a href="https://github.com/tufts-ml/data-emphasized-ELBo" target="_blank">GitHub</a>] [<a href="https://ethanharvey.com/posters/harvey2024learning.pdf" target="_blank">Poster</a>]
