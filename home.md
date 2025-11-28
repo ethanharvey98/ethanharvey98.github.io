@@ -2,9 +2,9 @@
 
 <img src="https://ethanharvey.com/img/Nips19239.JPG" align="right" width="30%"/>
 
-I am a Ph.D. candidate in the <a href="https://github.com/tufts-ml/" target="_blank">Machine Learning Research Group</a> at <a href="https://www.tufts.edu/" target="_blank">Tufts University</a>, advised by <a href="https://www.michaelchughes.com/" target="_blank">Dr. Michael C. Hughes</a>. I do research in machine learning for healthcare, with a focus on probabilistic machine learning and Bayesian deep learning.
+I am a Ph.D. candidate in the <a href="https://github.com/tufts-ml/" target="_blank">Machine Learning Research Group</a> at <a href="https://www.tufts.edu/" target="_blank">Tufts University</a>, advised by <a href="https://www.michaelchughes.com/" target="_blank">Dr. Michael C. Hughes</a>. My research is focused on machine learning for health, probabilistic machine learning, and Bayesian deep learning.
 
-I graduated with a B.S. in Computer Science and Mathematics minor from <a href="https://www.gcc.edu/" target="_blank">Grove City College</a>, where I worked with <a href="https://www.gcc.edu/Home/Academics/Faculty-Directory/Faculty-Detail/jonathan-o-hutchins" target="_blank">Dr. Jonathan O. Hutchins</a> on acoustic gait analysis using unsupervised learning.
+I graduated with a B.S. in Computer Science and Mathematics minor from <a href="https://www.gcc.edu/" target="_blank">Grove City College</a>, where I worked with <a href="https://www.gcc.edu/Home/Academics/Faculty-Directory/Faculty-Detail/jonathan-o-hutchins" target="_blank">Dr. Jonathan O. Hutchins</a>.
 
 **Statement of Faith.** I believe the Bible, consisting of the Old and New Testaments to be the Word of God, and its doctrine of salvation to be the perfect and only true doctrine of salvation.
 
@@ -27,6 +27,10 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 ## Papers
 
 For a complete list, please see <a target="_blank" href="https://scholar.google.com/citations?user=mHjMU6MAAAAJ">my Google Scholar profile</a>.
+
+* **Ethan Harvey**, Dennis Johan Loevlie, and Michael C. Hughes. Synthetic Data Reveals Generalization Gaps in Correlated Multiple Instance Learning. In *Machine Learning for Health (ML4H) Findings Track*, 2025.\
+  [<a href="https://arxiv.org/abs/2510.25759" target="_blank">arXiv</a>] [<a href="https://github.com/tufts-ml/correlated-mil" target="_blank">GitHub</a>] [<a href="https://ethanharvey.com/posters/harvey2025synthetic.pdf" target="_blank">Poster</a>]
+
 
 * **Ethan Harvey**, Mikhail Petrov, and Michael C. Hughes. Learning Hyperparameters via a Data-Emphasized Variational Objective. *Preprint*, 2025.\
   [<a href="https://arxiv.org/abs/2502.01861" target="_blank">arXiv</a>]
