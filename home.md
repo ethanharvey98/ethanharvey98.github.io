@@ -4,7 +4,7 @@
 
 I am a Ph.D. candidate in the <a href="https://github.com/tufts-ml/" target="_blank">Machine Learning Research Group</a> at <a href="https://www.tufts.edu/" target="_blank">Tufts University</a>, advised by <a href="https://www.michaelchughes.com/" target="_blank">Dr. Michael C. Hughes</a>. My research is focused on machine learning for health, probabilistic machine learning, and Bayesian deep learning.
 
-I graduated with a B.S. in Computer Science and Mathematics minor from <a href="https://www.gcc.edu/" target="_blank">Grove City College</a>, where I worked with <a href="https://www.gcc.edu/Home/Academics/Faculty-Directory/Faculty-Detail/jonathan-o-hutchins" target="_blank">Dr. Jonathan O. Hutchins</a>.
+I graduated with a B.S. in Computer Science and Mathematics minor from <a href="https://www.gcc.edu/" target="_blank">Grove City College</a>, where I did research with <a href="https://www.gcc.edu/Home/Academics/Faculty-Directory/Faculty-Detail/jonathan-o-hutchins" target="_blank">Dr. Jonathan O. Hutchins</a>.
 
 **Statement of Faith.** I believe the Bible, consisting of the Old and New Testaments to be the Word of God, and its doctrine of salvation to be the perfect and only true doctrine of salvation.
 
