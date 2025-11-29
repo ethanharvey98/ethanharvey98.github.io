@@ -29,11 +29,10 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 For a complete list, please see <a target="_blank" href="https://scholar.google.com/citations?user=mHjMU6MAAAAJ">my Google Scholar profile</a>.
 
 * **Ethan Harvey**, Dennis Johan Loevlie, and Michael C. Hughes. Synthetic Data Reveals Generalization Gaps in Correlated Multiple Instance Learning. In *Machine Learning for Health (ML4H) Findings Track*, 2025.\
-  [<a href="https://arxiv.org/abs/2510.25759" target="_blank">arXiv</a>] [<a href="https://github.com/tufts-ml/correlated-mil" target="_blank">GitHub</a>] [<a href="https://ethanharvey.com/posters/harvey2025synthetic.pdf" target="_blank">Poster</a>]
-
+  [<a href="https://arxiv.org/abs/2510.25759" target="_blank">arXiv</a>] [<a href="https://arxiv.org/pdf/2510.25759" target="_blank">PDF</a>] [<a href="https://github.com/tufts-ml/correlated-mil" target="_blank">GitHub</a>] [<a href="https://ethanharvey.com/posters/harvey2025synthetic.pdf" target="_blank">Poster</a>]
 
 * **Ethan Harvey**, Mikhail Petrov, and Michael C. Hughes. Learning Hyperparameters via a Data-Emphasized Variational Objective. *Preprint*, 2025.\
-  [<a href="https://arxiv.org/abs/2502.01861" target="_blank">arXiv</a>]
+  [<a href="https://arxiv.org/abs/2502.01861" target="_blank">arXiv</a>] [<a href="https://arxiv.org/pdf/2502.01861" target="_blank">PDF</a>]
 
 * **Ethan Harvey**, Mikhail Petrov, and Michael C. Hughes. Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective. In *NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability*, 2024.\
   [<a href="https://openreview.net/forum?id=wzvP0CJ8h4" target="_blank">OpenReview</a>] [<a href="https://openreview.net/pdf?id=wzvP0CJ8h4" target="_blank">PDF</a>] [<a href="https://github.com/tufts-ml/data-emphasized-ELBo" target="_blank">GitHub</a>] [<a href="https://ethanharvey.com/posters/harvey2024learning.pdf" target="_blank">Poster</a>]
