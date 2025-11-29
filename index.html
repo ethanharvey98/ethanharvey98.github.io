@@ -24,14 +24,19 @@
 		<!-- JavaScript -->
 		<script src="https://cdn.jsdelivr.net/npm/marked@3.0.7/marked.min.js"></script>
 		<script src="app.js"></script>
+        <script>
+            fetch("home.md")
+            .then(response => { return response.text(); })
+            .then(text => { document.getElementById("home").innerHTML = marked.parse(text) })
+        </script>
         <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF7DFWRKQE"></script>
         <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
 
-        gtag('config', 'G-LF7DFWRKQE');
+            gtag('config', 'G-LF7DFWRKQE');
         </script>
   	</body>
 </html>
