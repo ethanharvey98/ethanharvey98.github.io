@@ -45,3 +45,5 @@ For a complete list, please see <a target="_blank" href="https://scholar.google.
   [<a href="https://proceedings.mlr.press/v225/harvey23a.html" target="_blank">Abstract</a>] [<a href="https://proceedings.mlr.press/v225/harvey23a/harvey23a.pdf" target="_blank">PDF</a>] [<a href="https://github.com/tufts-ml/extrapolating-classifier-accuracy-to-larger-datasets" target="_blank">GitHub</a>] [<a href="https://ethanharvey.com/posters/harvey2023probabilistic.pdf" target="_blank">Poster</a>]
 
 <br/>
+
+<p id="last-updated">Last Updated: November 28, 2025</p>
