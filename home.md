@@ -4,7 +4,7 @@
 
 I am a fifth year Ph.D. candidate in the <a href="https://github.com/tufts-ml/" target="_blank">Machine Learning Research Group</a> at <a href="https://www.tufts.edu/" target="_blank">Tufts University</a>, advised by <a href="https://www.michaelchughes.com/" target="_blank">Dr. Michael C. Hughes</a>. My research is focused on machine learning for health, probabilistic machine learning, and Bayesian deep learning.
 
-My research was recognized with an AISTATS Spotlight presentation (top 2.5% of submitted papers) for my work on [Bayesian model selection](https://arxiv.org/abs/2502.01861).
+My research on [Bayesian model selection](https://arxiv.org/abs/2502.01861) has been recognized with an AISTATS Spotlight presentation (top 2.5% of submitted papers).
 
 I graduated with a B.S. in Computer Science and Mathematics minor from <a href="https://www.gcc.edu/" target="_blank">Grove City College</a>, where I did research with <a href="https://www.gcc.edu/Home/Academics/Faculty-Directory/Faculty-Detail/jonathan-o-hutchins" target="_blank">Dr. Jonathan O. Hutchins</a>.
 
