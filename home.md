@@ -4,7 +4,7 @@
 
 I am a fifth year Ph.D. candidate in the <a href="https://github.com/tufts-ml/" target="_blank">Machine Learning Research Group</a> at <a href="https://www.tufts.edu/" target="_blank">Tufts University</a>, advised by <a href="https://www.michaelchughes.com/" target="_blank">Dr. Michael C. Hughes</a>. My research is focused on machine learning for health, probabilistic machine learning, and Bayesian deep learning.
 
-My research was recognized with an AISTATS Spotlight presentation (top 2.5% of accepted papers) for my work on [Bayesian model selection](https://arxiv.org/abs/2502.01861).
+My research was recognized with an AISTATS Spotlight presentation (top 2.5% of submitted papers) for my work on [Bayesian model selection](https://arxiv.org/abs/2502.01861).
 
 I graduated with a B.S. in Computer Science and Mathematics minor from <a href="https://www.gcc.edu/" target="_blank">Grove City College</a>, where I did research with <a href="https://www.gcc.edu/Home/Academics/Faculty-Directory/Faculty-Detail/jonathan-o-hutchins" target="_blank">Dr. Jonathan O. Hutchins</a>.
 
@@ -14,7 +14,7 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 ## News
 
-**January 2026** Our paper was accepted at AISTATS 2026 as a Spotlight presentation (top 2.5% of accepted papers), [Learning Hyperparameters via a Data-Emphasized Variational Objective](https://arxiv.org/abs/2502.01861).
+**January 2026** Our paper was accepted at AISTATS 2026 as a Spotlight presentation (top 2.5% of submitted papers), [Learning Hyperparameters via a Data-Emphasized Variational Objective](https://arxiv.org/abs/2502.01861).
 
 **December 2024** Presented our TMLR paper at [NeurIPS 2024 poster session](https://neurips.cc/virtual/2024/poster/99332) in Journal-to-Conference Track.
 
@@ -30,7 +30,7 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 For a complete list, please see <a target="_blank" href="https://scholar.google.com/citations?user=mHjMU6MAAAAJ">my Google Scholar profile</a>.
 
-* **Ethan Harvey**, Mikhail Petrov, and Michael C. Hughes. Learning Hyperparameters via a Data-Emphasized Variational Objective. In *International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2026. (Spotlight presentation, top 2.5% of accepted papers)\
+* **Ethan Harvey**, Mikhail Petrov, and Michael C. Hughes. Learning Hyperparameters via a Data-Emphasized Variational Objective. In *International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2026. (Spotlight presentation, top 2.5% of submitted papers)\
   [<a href="https://arxiv.org/abs/2502.01861" target="_blank">arXiv</a>] [<a href="https://arxiv.org/pdf/2502.01861" target="_blank">PDF</a>]
 
 * **Ethan Harvey**, Dennis Johan Loevlie, and Michael C. Hughes. Synthetic Data Reveals Generalization Gaps in Correlated Multiple Instance Learning. In *Machine Learning for Health (ML4H) Findings Track*, 2025.\
