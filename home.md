@@ -16,7 +16,7 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 **January 2026** Our paper was accepted at AISTATS 2026 as a Spotlight presentation (top 2.5% of accepted papers), [Learning Hyperparameters via a Data-Emphasized Variational Objective](https://arxiv.org/abs/2502.01861).
 
-**December 2024** Presented our TMLR paper at a [NeurIPS 2024 poster session](https://neurips.cc/virtual/2024/poster/99332) in the Journal-to-Conference Track.
+**December 2024** Presented our TMLR paper at [NeurIPS 2024 poster session](https://neurips.cc/virtual/2024/poster/99332) in Journal-to-Conference Track.
 
 **October 2024** Our paper was accepted at the *Workshop on Fine-Tuning in Machine Learning (FITML@NeurIPS 2024)*, [Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective](https://openreview.net/forum?id=wzvP0CJ8h4).
 
