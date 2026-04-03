@@ -2,11 +2,11 @@
 
 <img src="https://ethanharvey.com/img/Nips19239.JPG" align="right" width="30%"/>
 
-I am a fifth year Ph.D. candidate in the <a href="https://github.com/tufts-ml/" target="_blank">Machine Learning Research Group</a> at <a href="https://www.tufts.edu/" target="_blank">Tufts University</a>, advised by <a href="https://www.michaelchughes.com/" target="_blank">Dr. Michael C. Hughes</a>. My research is focused on machine learning for health, probabilistic machine learning, and Bayesian deep learning.
+I am a fifth year Ph.D. candidate in the <a href="https://github.com/tufts-ml/" target="_blank">Machine Learning Research Group</a> at <a href="https://www.tufts.edu/" target="_blank">Tufts University</a>, advised by <a href="https://www.michaelchughes.com/" target="_blank">Michael C. Hughes</a>. My research is focused on machine learning for health, probabilistic machine learning, and Bayesian deep learning.
 
-My research on [Bayesian model selection](https://arxiv.org/abs/2502.01861) recieved an AISTATS Spotlight presentation (top 2.5% of submissions).
+My research on [Bayesian model selection](https://arxiv.org/abs/2502.01861) recieved an AISTATS Spotlight presentation (top 2.5% of submissions). I was selected as a recipient of the [2026 Outstanding Academic Scholarship Award](https://students.tufts.edu/graduate/graduate-award-winners) from the Tufts University School of Engineering.
 
-I graduated with a B.S. in Computer Science and Mathematics minor from <a href="https://www.gcc.edu/" target="_blank">Grove City College</a>, where I did research with <a href="https://www.gcc.edu/Home/Academics/Faculty-Directory/Faculty-Detail/jonathan-o-hutchins" target="_blank">Dr. Jonathan O. Hutchins</a>.
+I graduated with a B.S. in Computer Science and Mathematics minor from <a href="https://www.gcc.edu/" target="_blank">Grove City College</a>, where I did research with <a href="https://www.gcc.edu/Home/Academics/Faculty-Directory/Faculty-Detail/jonathan-o-hutchins" target="_blank">Jonathan O. Hutchins</a>.
 
 **Statement of Faith.** I believe the Bible, consisting of the Old and New Testaments to be the Word of God, and its doctrine of salvation to be the perfect and only true doctrine of salvation.
 
@@ -47,4 +47,4 @@ For a complete list, please see <a target="_blank" href="https://scholar.google.
 
 <br/>
 
-<p id="last-updated">Last Updated: January 22, 2026</p>
+<p id="last-updated">Last Updated: April 3, 2026</p>
