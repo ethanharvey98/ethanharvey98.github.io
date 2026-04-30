@@ -3,6 +3,7 @@
 <img src="https://ethanharvey.com/img/Nips19239.JPG" align="right" width="30%"/>
 
 I am a fifth year Ph.D. candidate in the <a href="https://github.com/tufts-ml/" target="_blank">Machine Learning Research Group</a> at <a href="https://www.tufts.edu/" target="_blank">Tufts University</a>, advised by <a href="https://www.michaelchughes.com/" target="_blank">Michael C. Hughes</a>. My research is focused on machine learning for health, probabilistic machine learning, and Bayesian deep learning.
+<!-- I graduated with an M.S. and Ph.D. in Computer Science from Tufts Univeristy, where I was a member of the Machine Learning Research Group advised by Michael C. Hughes. -->
 
 My research on [Bayesian transfer learning](https://arxiv.org/abs/2502.01861) received an AISTATS Spotlight presentation (top 2.5% of submissions). I was selected as a recipient of the [2026 Outstanding Academic Scholarship Award](https://students.tufts.edu/graduate/graduate-award-winners) from the Tufts University School of Engineering.
 
@@ -29,6 +30,12 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 ## Papers
 
 For a complete list, please see <a target="_blank" href="https://scholar.google.com/citations?user=mHjMU6MAAAAJ">my Google Scholar profile</a>.
+
+https://arxiv.org/abs/2604.25984
+
+* **Ethan Harvey** and Michael C. Hughes. Occam's Razor is Only as Sharp as Your ELBO. In *AISTATS 2026 Workshop on Optimisation and Post-Bayesian Inference in Machine Learning*, 2025.\
+  [<a href="https://arxiv.org/abs/2604.25984" target="_blank">arXiv</a>] [<a href="https://arxiv.org/pdf/2604.25984" target="_blank">PDF</a>] [<a href="https://github.com/ethanharvey98/overfitting-ELBO" target="_blank">GitHub</a>] [<a href="https://ethanharvey.com/posters/harvey2026occam.pdf" target="_blank">Poster</a>]
+
 
 * **Ethan Harvey**, Mikhail Petrov, and Michael C. Hughes. Learning Hyperparameters via a Data-Emphasized Variational Objective. In *International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2026. (Spotlight presentation, top 2.5% of submissions)\
   [<a href="https://arxiv.org/abs/2502.01861" target="_blank">arXiv</a>] [<a href="https://arxiv.org/pdf/2502.01861" target="_blank">PDF</a>]
