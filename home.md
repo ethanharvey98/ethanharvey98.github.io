@@ -31,8 +31,6 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 For a complete list, please see <a target="_blank" href="https://scholar.google.com/citations?user=mHjMU6MAAAAJ">my Google Scholar profile</a>.
 
-https://arxiv.org/abs/2604.25984
-
 * **Ethan Harvey** and Michael C. Hughes. Occam's Razor is Only as Sharp as Your ELBO. In *AISTATS 2026 Workshop on Optimisation and Post-Bayesian Inference in Machine Learning*, 2025.\
   [<a href="https://arxiv.org/abs/2604.25984" target="_blank">arXiv</a>] [<a href="https://arxiv.org/pdf/2604.25984" target="_blank">PDF</a>] [<a href="https://github.com/ethanharvey98/overfitting-ELBO" target="_blank">GitHub</a>] [<a href="https://ethanharvey.com/posters/harvey2026occam.pdf" target="_blank">Poster</a>]
 
