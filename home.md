@@ -3,7 +3,7 @@
 <img src="https://ethanharvey.com/img/Nips19239.JPG" align="right" width="30%"/>
 
 I am a fifth year Ph.D. candidate in the <a href="https://github.com/tufts-ml/" target="_blank">Machine Learning Research Group</a> at <a href="https://www.tufts.edu/" target="_blank">Tufts University</a>, advised by <a href="https://www.michaelchughes.com/" target="_blank">Michael C. Hughes</a>. My research is focused on machine learning for health, probabilistic machine learning, and Bayesian deep learning.
-<!-- I graduated with an M.S. and Ph.D. in Computer Science from Tufts Univeristy, where I was a member of the Machine Learning Research Group advised by Michael C. Hughes. -->
+<!-- I graduated with an M.S. and Ph.D. in Computer Science from <a href="https://www.tufts.edu/" target="_blank">Tufts University</a>, where I was a member of the  <a href="https://github.com/tufts-ml/" target="_blank">Machine Learning Research Group</a> advised by <a href="https://www.michaelchughes.com/" target="_blank">Michael C. Hughes</a>. -->
 
 My research on [Bayesian transfer learning](https://arxiv.org/abs/2502.01861) received an AISTATS Spotlight presentation (top 2.5% of submissions). I was selected as a recipient of the [2026 Outstanding Academic Scholarship Award](https://students.tufts.edu/graduate/graduate-award-winners) from the Tufts University School of Engineering.
 
@@ -19,7 +19,7 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 **December 2024** Presented our TMLR paper at [NeurIPS 2024 poster session](https://neurips.cc/virtual/2024/poster/99332) in Journal-to-Conference Track.
 
-**October 2024** Our paper was accepted at the *Workshop on Fine-Tuning in Modern Machine Learning (FITML@NeurIPS 2024)*, [Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective](https://openreview.net/forum?id=wzvP0CJ8h4).
+**October 2024** Our paper was accepted at the *Workshop on Fine-Tuning in Machine Learning (FITML@NeurIPS 2024)*, [Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective](https://openreview.net/forum?id=wzvP0CJ8h4).
 
 **May 2024** Our paper was accepted in *Transactions on Machine Learning Research (TMLR)*, [Transfer Learning with Informative Priors: Simple Baselines Better than Previously Reported](https://openreview.net/forum?id=BbvSU02jLg).
 
@@ -30,8 +30,9 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 For a complete list, please see <a target="_blank" href="https://scholar.google.com/citations?user=mHjMU6MAAAAJ">my Google Scholar profile</a>.
 
 * **Ethan Harvey**, Dennis Johan Loevlie, Amir Ali Satani, Wansu Chen, David M. Kent, Michael C. Hughes. A Multi-Dataset Benchmark of Multiple Instance Learning for 3D Neuroimage Classification. In *Conference on Health, Inference, and Learning (CHIL)*, 2026.\
+  [<a href="https://arxiv.org/abs/2604.26807" target="_blank">arXiv</a>] [<a href="https://arxiv.org/pdf/2604.26807" target="_blank">PDF</a>]
 
-* **Ethan Harvey** and Michael C. Hughes. Occam's Razor is Only as Sharp as Your ELBO. In *AISTATS Workshop on Optimisation and Post-Bayesian Inference in Machine Learning (OPTIMAL@AISTATS)*, 2026.\
+* **Ethan Harvey** and Michael C. Hughes. Occam's Razor is Only as Sharp as Your ELBO. In *AISTATS 2026 Workshop on Optimisation and Post-Bayesian Inference in Machine Learning*, 2026.\
   [<a href="https://arxiv.org/abs/2604.25984" target="_blank">arXiv</a>] [<a href="https://arxiv.org/pdf/2604.25984" target="_blank">PDF</a>] [<a href="https://github.com/ethanharvey98/overfitting-ELBO" target="_blank">GitHub</a>] [<a href="https://ethanharvey.com/posters/harvey2026occam.pdf" target="_blank">Poster</a>]
 
 * **Ethan Harvey**, Mikhail Petrov, and Michael C. Hughes. Learning Hyperparameters via a Data-Emphasized Variational Objective. In *International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2026. (Spotlight presentation, top 2.5% of submissions)\
@@ -40,7 +41,7 @@ For a complete list, please see <a target="_blank" href="https://scholar.google.
 * **Ethan Harvey**, Dennis Johan Loevlie, and Michael C. Hughes. Synthetic Data Reveals Generalization Gaps in Correlated Multiple Instance Learning. In *Machine Learning for Health (ML4H) Findings Track*, 2025.\
   [<a href="https://arxiv.org/abs/2510.25759" target="_blank">arXiv</a>] [<a href="https://arxiv.org/pdf/2510.25759" target="_blank">PDF</a>] [<a href="https://github.com/tufts-ml/correlated-mil" target="_blank">GitHub</a>] [<a href="https://ethanharvey.com/posters/harvey2025synthetic.pdf" target="_blank">Poster</a>]
 
-* **Ethan Harvey**, Mikhail Petrov, and Michael C. Hughes. Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective. In *NeurIPS Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability (FITML@NeurIPS)*, 2024.\
+* **Ethan Harvey**, Mikhail Petrov, and Michael C. Hughes. Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective. In *NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability*, 2024.\
   [<a href="https://openreview.net/forum?id=wzvP0CJ8h4" target="_blank">OpenReview</a>] [<a href="https://openreview.net/pdf?id=wzvP0CJ8h4" target="_blank">PDF</a>] [<a href="https://github.com/tufts-ml/data-emphasized-ELBO" target="_blank">GitHub</a>] [<a href="https://ethanharvey.com/posters/harvey2024learning.pdf" target="_blank">Poster</a>]
 
 * **Ethan Harvey**\*, Mikhail Petrov\*, and Michael C. Hughes. Transfer Learning with Informative Priors: Simple Baselines Better than Previously Reported. *Transactions on Machine Learning Research (TMLR)*, 2024. ISSN 2835-8856. (Presented at NeurIPS 2024 poster session in Journal-to-Conference Track)\
@@ -51,4 +52,4 @@ For a complete list, please see <a target="_blank" href="https://scholar.google.
 
 <br/>
 
-<p id="last-updated">Last Updated: April 30, 2026</p>
+<p id="last-updated">Last Updated: May 21, 2026</p>
