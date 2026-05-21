@@ -29,7 +29,7 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 For a complete list, please see <a target="_blank" href="https://scholar.google.com/citations?user=mHjMU6MAAAAJ">my Google Scholar profile</a>.
 
-* **Ethan Harvey**, Dennis Johan Loevlie, Amir Ali Satani, Wansu Chen, David M. Kent, Michael C. Hughes. A Multi-Dataset Benchmark of Multiple Instance Learning for 3D Neuroimage Classification. In *Conference on Health, Inference, and Learning (CHIL)*, 2026.\
+* **Ethan Harvey**\*, Dennis Johan Loevlie\*, Amir Ali Satani, Wansu Chen, David M. Kent, Michael C. Hughes. A Multi-Dataset Benchmark of Multiple Instance Learning for 3D Neuroimage Classification. In *Conference on Health, Inference, and Learning (CHIL)*, 2026.\
   [<a href="https://arxiv.org/abs/2604.26807" target="_blank">arXiv</a>] [<a href="https://arxiv.org/pdf/2604.26807" target="_blank">PDF</a>]
 
 * **Ethan Harvey** and Michael C. Hughes. Occam's Razor is Only as Sharp as Your ELBO. In *AISTATS 2026 Workshop on Optimisation and Post-Bayesian Inference in Machine Learning*, 2026.\
