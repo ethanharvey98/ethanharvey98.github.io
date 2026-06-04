@@ -2,12 +2,12 @@
 
 <img src="https://ethanharvey.com/img/Nips19239.JPG" align="right" width="30%"/>
 
-I am a fifth year Ph.D. candidate in the <a href="https://github.com/tufts-ml/" target="_blank">Machine Learning Research Group</a> at <a href="https://www.tufts.edu/" target="_blank">Tufts University</a>, advised by <a href="https://www.michaelchughes.com/" target="_blank">Michael C. Hughes</a>. My research is focused on machine learning for health, probabilistic machine learning, and Bayesian deep learning.
-<!-- I graduated with an M.S. and Ph.D. in Computer Science from <a href="https://www.tufts.edu/" target="_blank">Tufts University</a>, where I was a member of the  <a href="https://github.com/tufts-ml/" target="_blank">Machine Learning Research Group</a> advised by <a href="https://www.michaelchughes.com/" target="_blank">Michael C. Hughes</a>. -->
+My research interests include machine learning for health, probabilistic machine learning, and Bayesian deep learning.
+My research on <a href="https://arxiv.org/abs/2502.01861" target="_blank">Bayesian transfer learning</a> received an AISTATS Spotlight presentation (top 2.5% of submissions).
+I was selected as a recipient of the <a href="https://students.tufts.edu/graduate/graduate-award-winners" target="_blank">2026 Outstanding Academic Scholarship Award</a> from the Tufts University School of Engineering.
 
-My research on [Bayesian transfer learning](https://arxiv.org/abs/2502.01861) received an AISTATS Spotlight presentation (top 2.5% of submissions). I was selected as a recipient of the [2026 Outstanding Academic Scholarship Award](https://students.tufts.edu/graduate/graduate-award-winners) from the Tufts University School of Engineering.
-
-I graduated with a B.S. in Computer Science and Mathematics minor from <a href="https://www.gcc.edu/" target="_blank">Grove City College</a>, where I did research with <a href="https://www.gcc.edu/Home/Academics/Faculty-Directory/Faculty-Detail/jonathan-o-hutchins" target="_blank">Jonathan O. Hutchins</a>.
+I graduated with an M.S. and Ph.D. in Computer Science from <a href="https://www.tufts.edu/" target="_blank">Tufts University</a>, where I was a member of the <a href="https://github.com/tufts-ml/" target="_blank">Machine Learning Research Group</a> advised by <a href="https://www.michaelchughes.com/" target="_blank">Michael C. Hughes</a>.
+Before joining Tufts, I graduated with a B.S. in Computer Science and Mathematics minor from <a href="https://www.gcc.edu/" target="_blank">Grove City College</a>, where I did research with <a href="https://www.gcc.edu/Home/Academics/Faculty-Directory/Faculty-Detail/jonathan-o-hutchins" target="_blank">Jonathan O. Hutchins</a>.
 
 **Statement of Faith.** I believe the Bible, consisting of the Old and New Testaments to be the Word of God, and its doctrine of salvation to be the perfect and only true doctrine of salvation.
 
@@ -15,19 +15,22 @@ I graduated with a B.S. in Computer Science and Mathematics minor from <a href="
 
 ## News
 
-**January 2026** Our paper was accepted at AISTATS 2026 as a Spotlight presentation (top 2.5% of submissions), [Learning Hyperparameters via a Data-Emphasized Variational Objective](https://arxiv.org/abs/2502.01861).
+**January 2026** Our paper was accepted at AISTATS 2026 as a Spotlight presentation (top 2.5% of submissions), <a href="https://arxiv.org/abs/2502.01861" target="_blank">Learning Hyperparameters via a Data-Emphasized Variational Objective</a>.
 
-**December 2024** Presented our TMLR paper at [NeurIPS 2024 poster session](https://neurips.cc/virtual/2024/poster/99332) in Journal-to-Conference Track.
+**December 2024** We presented our TMLR paper at a <a href="https://neurips.cc/virtual/2024/poster/99332" target="_blank">NeurIPS 2024 Poster Session</a> in the Journal-to-Conference Track.
 
-**October 2024** Our paper was accepted at the *Workshop on Fine-Tuning in Machine Learning (FITML@NeurIPS 2024)*, [Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective](https://openreview.net/forum?id=wzvP0CJ8h4).
+**October 2024** Our paper was accepted at the *NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning*, <a href="https://openreview.net/forum?id=wzvP0CJ8h4" target="_blank">Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective</a>.
 
-**May 2024** Our paper was accepted in *Transactions on Machine Learning Research (TMLR)*, [Transfer Learning with Informative Priors: Simple Baselines Better than Previously Reported](https://openreview.net/forum?id=BbvSU02jLg).
+**May 2024** Our paper was accepted in *Transactions on Machine Learning Research (TMLR)*, <a href="https://openreview.net/forum?id=BbvSU02jLg" target="_blank">Transfer Learning with Informative Priors: Simple Baselines Better than Previously Reported</a>.
 
 <br/>
 
 ## Papers
 
 For a complete list, please see <a target="_blank" href="https://scholar.google.com/citations?user=mHjMU6MAAAAJ">my Google Scholar profile</a>.
+
+* **Ethan Harvey**\*, Dennis Johan Loevlie\*, Michael C. Hughes. Normal Guidance is what Attention Needs. *Under Review*, 2026.\
+  [<a href="https://arxiv.org/abs/2605.27306" target="_blank">arXiv</a>] [<a href="https://arxiv.org/pdf/2605.27306" target="_blank">PDF</a>]
 
 * **Ethan Harvey**\*, Dennis Johan Loevlie\*, Amir Ali Satani, Wansu Chen, David M. Kent, Michael C. Hughes. A Multi-Dataset Benchmark of Multiple Instance Learning for 3D Neuroimage Classification. In *Conference on Health, Inference, and Learning (CHIL)*, 2026.\
   [<a href="https://arxiv.org/abs/2604.26807" target="_blank">arXiv</a>] [<a href="https://arxiv.org/pdf/2604.26807" target="_blank">PDF</a>]
