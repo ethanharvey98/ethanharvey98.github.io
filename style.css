@@ -1,52 +1,35 @@
-:root {
-    --bright-gray: #EEEEEE;
-    --chinese-silver: #CCCCCC;
-    --spanish-gray: #999999;
-    --granite-gray: #666666;
-    --dark-charcoal: #333333;
-}
-body, h1, h2, h3, h4, h5, h6, p {
+body {
     font-family: sans-serif;
     margin: 0;
 }
 h2 {
-    width: 100%;
-    border-bottom: var(--bright-gray) solid 1px;
-    margin: 1rem 0;
+    border-bottom: 1px solid #eee;
 }
-p {
-    margin-bottom: 1rem;
-}
-a {
-    text-decoration: none;
-}
-a:hover {
-    text-decoration: underline;
+img {
+    max-width: 100%;
 }
 .container {
     max-width: 800px;
     padding: 8px;
     margin: 0 auto;
+    display: flow-root; /* contains the floated photo */
 }
 #nav-bar {
-    background-color: var(--bright-gray);
-}
-#header {
-    margin-top: 16px;
-}
-#header a {
-    color: black;
+    background: #eee;
 }
 nav {
-    overflow-x: auto;
-    white-space: nowrap;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    display: flex;
+    gap: 1rem;
+    padding: 1rem 0;
 }
-nav a {
-    margin-right: 1rem;
+nav a[aria-current="page"] {
+    font-weight: bold;
+}
+.profile-img {
+    float: right;
+    width: 30%;
+    margin: 0 0 1rem 1rem;
 }
 #last-updated {
-    margin-top: 1rem;
-    color: var(--spanish-gray);
+    color: #666;
 }

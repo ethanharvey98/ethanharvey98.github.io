@@ -1,40 +1,63 @@
 <!DOCTYPE html>
-<html lang="en-us" >
+<html lang="en">
 	<head>
 		<meta charset="utf-8"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0,  minimum-scale=1.0"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
 		<title>Ethan Harvey</title>
+		<meta name="description" content="Ethan Harvey is a Senior Machine Learning Scientist at Merck Research Laboratories. Ph.D. in Computer Science from Tufts University."/>
+		<link rel="canonical" href="https://ethanharvey.com/"/>
 		<meta property="og:type" content="website"/>
-		<meta property="og:title" content="ethanharvey.com"/>
+		<meta property="og:title" content="Ethan Harvey"/>
 		<meta property="og:description" content="Find out more information about myself and my research interests."/>
-		<meta property="og:url" content="https://ethanharvey.com"/>
+		<meta property="og:url" content="https://ethanharvey.com/"/>
 		<meta property="og:site_name" content="Ethan Harvey"/>
 		<meta property="og:image" content="https://ethanharvey.com/img/joyce_cummings_center_dusk_rendering.jpg"/>
-		<meta property="og:image:width" content="1366">
+		<meta property="og:image:width" content="1366"/>
 		<meta property="og:image:height" content="769"/>
-		<link rel="icon" href="https://www.tufts.edu/themes/custom/tuftsedu_theme/favicon.png" type="image/png">
-		<link rel="stylesheet" type="text/css" href="style.css"/>
+		<meta property="og:image:alt" content="Rendering of the Joyce Cummings Center at Tufts University at dusk"/>
+		<meta name="twitter:card" content="summary_large_image"/>
+		<link rel="icon" href="https://www.tufts.edu/themes/custom/tuftsedu_theme/favicon.png" type="image/png"/>
+		<link rel="stylesheet" href="style.css"/>
 	</head>
 	<body>
-		<div html="nav-bar.html"></div>
-		<div class="container">
-			<div id="home"></div>
-    	</div>
-		<!-- JavaScript -->
-		<script src="https://cdn.jsdelivr.net/npm/marked@3.0.7/marked.min.js"></script>
-		<script src="app.js"></script>
-        <script>
-            fetch("home.md")
-            .then(response => { return response.text(); })
-            .then(text => { document.getElementById("home").innerHTML = marked.parse(text) })
-        </script>
-        <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF7DFWRKQE"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag("js", new Date());
-            gtag("config", "G-LF7DFWRKQE");
-        </script>
-  	</body>
+		<header id="nav-bar">
+			<div class="container">
+				<div id="header">
+					<h1>Ethan Harvey</h1>
+				</div>
+				<nav aria-label="Main">
+					<a href="index.html" aria-current="page">About</a>
+					<a href="publications.html">Publications</a>
+					<a href="Ethan_Harvey_s_CV.pdf" target="_blank" rel="noopener">CV</a>
+				</nav>
+			</div>
+		</header>
+		<main class="container">
+			<h2 id="about">About</h2>
+
+			<img class="profile-img" src="https://ethanharvey.com/img/Nips19239.JPG" alt="Ethan Harvey"/>
+
+			<p>I am a Senior Machine Learning Scientist in the Data, AI &amp; Genome Sciences Department at Merck Research Laboratories.</p>
+
+			<p>My research on <a href="https://arxiv.org/abs/2502.01861" target="_blank" rel="noopener">Bayesian transfer learning</a> received an AISTATS Spotlight presentation (top 2.5% of submissions).
+			I was selected as a recipient of the <a href="https://students.tufts.edu/graduate/graduate-award-winners" target="_blank" rel="noopener">2026 Outstanding Academic Scholarship Award</a> from the Tufts University School of Engineering.</p>
+
+			<p>I graduated with an M.S. and Ph.D. in Computer Science from <a href="https://www.tufts.edu/" target="_blank" rel="noopener">Tufts University</a>, where I was a member of the <a href="https://github.com/tufts-ml/" target="_blank" rel="noopener">Machine Learning Research Group</a> advised by <a href="https://www.michaelchughes.com/" target="_blank" rel="noopener">Michael C. Hughes</a>.
+			Prior to Tufts, I graduated with a B.S. in Computer Science and Mathematics minor from <a href="https://www.gcc.edu/" target="_blank" rel="noopener">Grove City College</a>, where I did research with <a href="https://www.gcc.edu/Home/Academics/Faculty-Directory/Faculty-Detail/jonathan-o-hutchins" target="_blank" rel="noopener">Jonathan O. Hutchins</a>.</p>
+
+			<p><strong>Statement of Faith.</strong> I believe the Bible, consisting of the Old and New Testaments to be the Word of God, and its doctrine of salvation to be the perfect and only true doctrine of salvation.</p>
+
+			<p>See my <a href="publications.html">publications</a>.</p>
+
+			<p id="last-updated">Last Updated: November 24, 2026</p>
+		</main>
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-LF7DFWRKQE"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag("js", new Date());
+			gtag("config", "G-LF7DFWRKQE");
+		</script>
+	</body>
 </html>
