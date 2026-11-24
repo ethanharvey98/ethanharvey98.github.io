@@ -1,8 +1,9 @@
-## About Me
+## About
 
 <img src="https://ethanharvey.com/img/Nips19239.JPG" align="right" width="30%"/>
 
-My research interests include machine learning for health, probabilistic machine learning, and Bayesian deep learning.
+I am a Senior Machine Learning Scientist in the Data, AI & Genome Sciences Department at Merck Research Laboratories.
+
 My research on <a href="https://arxiv.org/abs/2502.01861" target="_blank">Bayesian transfer learning</a> received an AISTATS Spotlight presentation (top 2.5% of submissions).
 I was selected as a recipient of the <a href="https://students.tufts.edu/graduate/graduate-award-winners" target="_blank">2026 Outstanding Academic Scholarship Award</a> from the Tufts University School of Engineering.
 
@@ -13,33 +14,21 @@ Prior to Tufts, I graduated with a B.S. in Computer Science and Mathematics mino
 
 <br clear="right"/>
 
-## News
-
-**January 2026** Our paper was accepted at AISTATS 2026 as a Spotlight presentation (top 2.5% of submissions), <a href="https://arxiv.org/abs/2502.01861" target="_blank">Learning Hyperparameters via a Data-Emphasized Variational Objective</a>.
-
-**December 2024** We presented our TMLR paper at a <a href="https://neurips.cc/virtual/2024/poster/99332" target="_blank">NeurIPS 2024 Poster Session</a> in the Journal-to-Conference Track.
-
-**October 2024** Our paper was accepted at the *NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning*, <a href="https://openreview.net/forum?id=wzvP0CJ8h4" target="_blank">Learning the Regularization Strength for Deep Fine-Tuning via a Data-Emphasized Variational Objective</a>.
-
-**May 2024** Our paper was accepted in *Transactions on Machine Learning Research (TMLR)*, <a href="https://openreview.net/forum?id=BbvSU02jLg" target="_blank">Transfer Learning with Informative Priors: Simple Baselines Better than Previously Reported</a>.
-
-<br/>
-
-## Papers
+## Publications
 
 For a complete list, please see <a target="_blank" href="https://scholar.google.com/citations?user=mHjMU6MAAAAJ">my Google Scholar profile</a>.
+
+* **Ethan Harvey**, Geoff Pleiss, and Michael C. Hughes. Occam's Razor is Only as Sharp as Your ELBO. *Under Review*, 2026.\
+  [<a href="https://arxiv.org/abs/2604.25984" target="_blank">arXiv</a>] [<a href="https://arxiv.org/pdf/2604.25984" target="_blank">PDF</a>] [<a href="https://github.com/ethanharvey98/overfitting-ELBO" target="_blank">GitHub</a>] [<a href="https://ethanharvey.com/posters/harvey2026occam.pdf" target="_blank">Poster</a>]
 
 * **Ethan Harvey**\*, Dennis Johan Loevlie\*, Michael C. Hughes. Normal Guidance is what Attention Needs. *Under Review*, 2026.\
   [<a href="https://arxiv.org/abs/2605.27306" target="_blank">arXiv</a>] [<a href="https://arxiv.org/pdf/2605.27306" target="_blank">PDF</a>]
 
 * **Ethan Harvey**\*, Dennis Johan Loevlie\*, Amir Ali Satani, Wansu Chen, David M. Kent, Michael C. Hughes. A Multi-Dataset Benchmark of Multiple Instance Learning for 3D Neuroimage Classification. In *Conference on Health, Inference, and Learning (CHIL)*, 2026.\
-  [<a href="https://arxiv.org/abs/2604.26807" target="_blank">arXiv</a>] [<a href="https://arxiv.org/pdf/2604.26807" target="_blank">PDF</a>]
-
-* **Ethan Harvey** and Michael C. Hughes. Occam's Razor is Only as Sharp as Your ELBO. In *AISTATS 2026 Workshop on Optimisation and Post-Bayesian Inference in Machine Learning*, 2026.\
-  [<a href="https://arxiv.org/abs/2604.25984" target="_blank">arXiv</a>] [<a href="https://arxiv.org/pdf/2604.25984" target="_blank">PDF</a>] [<a href="https://github.com/ethanharvey98/overfitting-ELBO" target="_blank">GitHub</a>] [<a href="https://ethanharvey.com/posters/harvey2026occam.pdf" target="_blank">Poster</a>]
+  [<a href="https://proceedings.mlr.press/v333/harvey26a.html" target="_blank">Abstract</a>] [<a href="https://arxiv.org/pdf/2604.26807" target="_blank">PDF</a>] [<a href="https://github.com/tufts-ml/neuroimage-classifiers" target="_blank">GitHub</a>]
 
 * **Ethan Harvey**, Mikhail Petrov, and Michael C. Hughes. Learning Hyperparameters via a Data-Emphasized Variational Objective. In *International Conference on Artificial Intelligence and Statistics (AISTATS)*, 2026. (Spotlight presentation, top 2.5% of submissions)\
-  [<a href="https://proceedings.mlr.press/v300/harvey26a.html" target="_blank">Abstract</a>] [<a href="https://proceedings.mlr.press/v300/harvey26a/harvey26a.pdf" target="_blank">PDF</a>] [<a href="https://github.com/tufts-ml/data-emphasized-ELBO" target="_blank">GitHub</a>] [<a href="https://ethanharvey.com/posters/harvey2026learning.pdf" target="_blank">Poster</a>] [<a href="https://ethanharvey.com/slides/harvey2026learning.pdf" target="_blank">Slides</a>]
+  [<a href="https://proceedings.mlr.press/v300/harvey26a.html" target="_blank">Abstract</a>] [<a href="https://arxiv.org/pdf/2502.01861" target="_blank">PDF</a>] [<a href="https://github.com/tufts-ml/data-emphasized-ELBO" target="_blank">GitHub</a>] [<a href="https://ethanharvey.com/slides/harvey2026learning.pdf" target="_blank">Slides</a>] [<a href="https://ethanharvey.com/posters/harvey2026learning.pdf" target="_blank">Poster</a>]
 
 * **Ethan Harvey**, Dennis Johan Loevlie, and Michael C. Hughes. Synthetic Data Reveals Generalization Gaps in Correlated Multiple Instance Learning. In *Machine Learning for Health (ML4H) Findings Track*, 2025.\
   [<a href="https://arxiv.org/abs/2510.25759" target="_blank">arXiv</a>] [<a href="https://arxiv.org/pdf/2510.25759" target="_blank">PDF</a>] [<a href="https://github.com/tufts-ml/correlated-mil" target="_blank">GitHub</a>] [<a href="https://ethanharvey.com/posters/harvey2025synthetic.pdf" target="_blank">Poster</a>]
@@ -55,4 +44,4 @@ For a complete list, please see <a target="_blank" href="https://scholar.google.
 
 <br/>
 
-<p id="last-updated">Last Updated: May 21, 2026</p>
+<p id="last-updated">Last Updated: November 25, 2026</p>
